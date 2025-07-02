@@ -1,0 +1,2271 @@
+public_id,VJ_INTERVAL,visitdy,visit,MHX_SPECIFY,medoth,medx,atleast,mednone,medmiss,enr
+MMRF_1014,Baseline,-10,0,,,Osteoarthritis,1,,,1
+MMRF_1017,Baseline,-15,0,,,Osteoarthritis,1,,,1
+MMRF_1024,Baseline,-27,0,,,Chronic renal failure,1,,,1
+MMRF_1024,Baseline,-27,0,,,Ischemic heart disease,1,,,1
+MMRF_1024,Baseline,-27,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1038,Baseline,-30,0,,,Diabetes,1,,,1
+MMRF_1038,Baseline,-30,0,back pain,,Pain (various),1,,,1
+MMRF_1038,Baseline,-30,0,hx tooth abscess-iv abx,1,Other,1,,,1
+MMRF_1038,Baseline,-30,0,hypertension,,Hypertension,1,,,1
+MMRF_1033,Baseline,-29,0,hypercholestemia,,Hypercholesterolemia,1,,,1
+MMRF_1007,Baseline,-17,0,,,Diabetes,1,,,1
+MMRF_1052,Baseline,-27,0,,,Diabetes,1,,,1
+MMRF_1052,Baseline,-27,0,,,Ischemic heart disease,1,,,1
+MMRF_1082,Baseline,-14,0,,,Acute renal failure,1,,,1
+MMRF_1082,Baseline,-14,0,hypertension,,Hypertension,1,,,1
+MMRF_1094,Baseline,-4,0,back pain,,Pain (various),1,,,1
+MMRF_1094,Baseline,-4,0,neck pain,,Pain (various),1,,,1
+MMRF_1093,Baseline,-9,0,,,Peripheral neuropathy,1,,,1
+MMRF_1093,Baseline,-9,0,hyperthyroidism,,Hyperthyroidism,1,,,1
+MMRF_1129,Baseline,1,0,,,Cerebrovascular disease,1,,,1
+MMRF_1129,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1130,Baseline,-10,0,appendectomy,,Surgery (various),1,,,1
+MMRF_1130,Baseline,-10,0,tonsillectomy,,Surgery (various),1,,,1
+MMRF_1130,Baseline,-10,0,gall bladder removal,,Surgery (various),1,,,1
+MMRF_1130,Baseline,-10,0,right knee orthroscopic surgery,,Surgery (various),1,,,1
+MMRF_1130,Baseline,-10,0,deviated septum,1,Other,1,,,1
+MMRF_1130,Baseline,-10,0,basal cell skin cancer,,Skin Cancer,1,,,1
+MMRF_1137,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1137,Baseline,-5,0,,,Peripheral neuropathy,1,,,1
+MMRF_1137,Baseline,-5,0,knee surgery,,Surgery (various),1,,,1
+MMRF_1137,Baseline,-5,0,lower back surgery-disks,,Surgery (various),1,,,1
+MMRF_1137,Baseline,-5,0,chronic back pain,,Pain (various),1,,,1
+MMRF_1137,Baseline,-5,0,premature atrial contraction,1,Other,1,,,1
+MMRF_1137,Baseline,-5,0,athritis,,Arthritis,1,,,1
+MMRF_1137,Baseline,-5,0,hypercholesteremia,,Hypercholesterolemia,1,,,1
+MMRF_1132,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1132,Baseline,1,0,asthma-exercise induced,,Asthma,1,,,1
+MMRF_1132,Baseline,1,0,spine arthiritis,,Arthritis,1,,,1
+MMRF_1132,Baseline,1,0,cataracts removal,,Cataracts,1,,,1
+MMRF_1132,Baseline,1,0,elevated intraocaular pressure,1,Other,1,,,1
+MMRF_1229,Baseline,-25,0,,,Diabetes,1,,,1
+MMRF_1256,Baseline,-16,0,,,Cerebrovascular disease,1,,,1
+MMRF_1256,Baseline,-16,0,hot flashes,1,Other,1,,,1
+MMRF_1277,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1285,Baseline,-27,0,,,Diabetes,1,,,1
+MMRF_1285,Baseline,-27,0,,,Peripheral neuropathy,1,,,1
+MMRF_1359,Baseline,-6,0,,,Chronic renal failure,1,,,1
+MMRF_1401,Baseline,-11,0,,,Diabetes,1,,,1
+MMRF_1401,Baseline,-11,0,,,Ischemic heart disease,1,,,1
+MMRF_1410,Baseline,-12,0,,,COPD,1,,,1
+MMRF_1598,Baseline,-6,0,,,Acute renal failure,1,,,1
+MMRF_1598,Baseline,-6,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1598,Baseline,-6,0,,,Renal dialysis,1,,,1
+MMRF_1695,Baseline,-21,0,,,Diabetes,1,,,1
+MMRF_1695,Baseline,-21,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1695,Baseline,-21,0,Hypertension,,Hypertension,1,,,1
+MMRF_1838,Baseline,-6,0,,,Congestive heart failure,1,,,1
+MMRF_1838,Baseline,-6,0,,,Ischemic heart disease,1,,,1
+MMRF_1838,Baseline,-6,0,gout,,Gout,1,,,1
+MMRF_1838,Baseline,-6,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1838,Baseline,-6,0,hypertension,,Hypertension,1,,,1
+MMRF_1838,Baseline,-6,0,recurrent nephrolithiasis,,Nephrolithiasis,1,,,1
+MMRF_1838,Baseline,-6,0,elevated PSA,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1866,Baseline,38,0,,,Peripheral neuropathy,1,,,1
+MMRF_1866,Baseline,38,0,hypertension,,Hypertension,1,,,1
+MMRF_1866,Baseline,38,0,peripheral neuropathy,,Peripheral neuropathy,1,,,1
+MMRF_1950,Baseline,-6,0,,,Acute renal failure,1,,,1
+MMRF_1950,Baseline,-6,0,,,Ischemic heart disease,1,,,1
+MMRF_1950,Baseline,-6,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1950,Baseline,-6,0,Hypertension,,Hypertension,1,,,1
+MMRF_1950,Baseline,-6,0,Peripheral Vascular Disease,,Peripheral vascular disease,1,,,1
+MMRF_1950,Baseline,-6,0,Hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1997,Baseline,-4,0,,,Peripheral neuropathy,1,,,1
+MMRF_2214,Baseline,-5,0,,,Cerebrovascular disease,1,,,1
+MMRF_2214,Baseline,-5,0,,,Peripheral neuropathy,1,,,1
+MMRF_2214,Baseline,-5,0,normochronic anemia,,Anemia,1,,,1
+MMRF_2214,Baseline,-5,0,fatigue,,Fatigue,1,,,1
+MMRF_2214,Baseline,-5,0,shortness of breath,1,Other,1,,,1
+MMRF_2214,Baseline,-5,0,hyperviscosity with an elevated serum total protein,1,Other,1,,,1
+MMRF_2230,Baseline,-13,0,,,COPD,1,,,1
+MMRF_2230,Baseline,-13,0,Cardio embolic stroke,,Cerebrovascular disease,1,,,1
+MMRF_2230,Baseline,-13,0,Atrial Fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2258,Baseline,-11,0,,,Chronic renal failure,1,,,1
+MMRF_2258,Baseline,-11,0,,,Diabetes,1,,,1
+MMRF_2258,Baseline,-11,0,,,Ischemic heart disease,1,,,1
+MMRF_2258,Baseline,-11,0,celiac disease,,Celiac Disease,1,,,1
+MMRF_2258,Baseline,-11,0,hypertension,,Hypertension,1,,,1
+MMRF_2258,Baseline,-11,0,proteinuria,1,Other,1,,,1
+MMRF_2258,Baseline,-11,0,kidney transplant,,Surgery (various),1,,,1
+MMRF_2258,Baseline,-11,0,kidney rejection,1,Other,1,,,1
+MMRF_2258,Baseline,-11,0,EBV Viremia,1,Other,1,,,1
+MMRF_2258,Baseline,-11,0,gastritis,,Gastritis,1,,,1
+MMRF_2442,Baseline,-4,0,Undecended Testicle 1962,1,Other,1,,,1
+MMRF_2442,Baseline,-4,0,Varicocelectomy 1995,1,Other,1,,,1
+MMRF_2442,Baseline,-4,0,Hay Fever,,Allergies,1,,,1
+MMRF_2456,Baseline,-8,0,congenital heart mumur,1,Other,1,,,1
+MMRF_2456,Baseline,-8,0,hypertension,,Hypertension,1,,,1
+MMRF_2456,Baseline,-8,0,hyperlipidema,,Hyperlipidemia,1,,,1
+MMRF_2456,Baseline,-8,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2456,Baseline,-8,0,benign prostatic hypertrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2456,Baseline,-8,0,right ventricular compensated hypertrophy,1,Other,1,,,1
+MMRF_2456,Baseline,-8,0,sleep apnea,,Sleep apnea,1,,,1
+MMRF_2456,Baseline,-8,0,panic disorder,,Anxiety,1,,,1
+MMRF_2456,Baseline,-8,0,anxiety disorder,,Anxiety,1,,,1
+MMRF_2471,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2471,Baseline,-5,0,Benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2471,Baseline,-5,0,glaucoma,,Glaucoma,1,,,1
+MMRF_2471,Baseline,-5,0,bilateral cataract surgury,,Cataracts,1,,,1
+MMRF_2471,Baseline,-5,0,detached retina,1,Other,1,,,1
+MMRF_2471,Baseline,-5,0,tinnitus,,Hearing loss / Tinnitus,1,,,1
+MMRF_2471,Baseline,-5,0,prostate vaporization,,Prostate Cancer,1,,,1
+MMRF_2579,Baseline,-6,0,,,Ischemic heart disease,1,,,1
+MMRF_1021,Baseline,-28,0,Hypertension,,Hypertension,1,,,1
+MMRF_1021,Baseline,-28,0,Asthma,,Asthma,1,,,1
+MMRF_1030,Baseline,-10,0,,,Diabetes,1,,,1
+MMRF_1030,Baseline,-10,0,,,Osteoarthritis,1,,,1
+MMRF_1030,Baseline,-10,0,hypercholesteremia,,Hypercholesterolemia,1,,,1
+MMRF_1030,Baseline,-10,0,choleithiasis,1,Other,1,,,1
+MMRF_1030,Baseline,-10,0,mitral valve prolapse,,Mitral valve dysfunction,1,,,1
+MMRF_1030,Baseline,-10,0,reactive airway disease,1,Other,1,,,1
+MMRF_1030,Baseline,-10,0,mid back discomfort,,Pain (various),1,,,1
+MMRF_1030,Baseline,-10,0,T12 soft tissue component (plasmacytoma),1,Other,1,,,1
+MMRF_1032,Baseline,-2,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1032,Baseline,-2,0,Prostate Cancer diagnosed in 2002,,Prostate Cancer,1,,,1
+MMRF_1032,Baseline,-2,0,Parkinson's,,Parkinson's Disease,1,,,1
+MMRF_1032,Baseline,-2,0,Torn rotator cuff,1,Other,1,,,1
+MMRF_1072,Baseline,-6,0,Left shoulder pain/weakness,,Pain (various),1,,,1
+MMRF_1072,Baseline,-6,0,Rheumatoid Arthritis (2006),,Arthritis,1,,,1
+MMRF_1079,Baseline,-6,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1079,Baseline,-6,0,hypertension,,Hypertension,1,,,1
+MMRF_1079,Baseline,-6,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1079,Baseline,-6,0,indolent prostate cancer requiring no treatment,,Prostate Cancer,1,,,1
+MMRF_1098,Baseline,-28,0,right arm osteomyelitis,,Osteomyelitis,1,,,1
+MMRF_1099,Baseline,-3,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1099,Baseline,-3,0,decreased LV complianance(per Echo on 6/23/2011 report),1,Other,1,,,1
+MMRF_1099,Baseline,-3,0,mild anemia,,Anemia,1,,,1
+MMRF_1099,Baseline,-3,0,back discomfort,,Pain (various),1,,,1
+MMRF_1139,Baseline,-4,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1139,Baseline,-4,0,Hypothyroidsm,,Hypothyroidism,1,,,1
+MMRF_1139,Baseline,-4,0,Psoriasis,,Psoraisis,1,,,1
+MMRF_1139,Baseline,-4,0,Mitral valve prolapse,,Mitral valve dysfunction,1,,,1
+MMRF_1139,Baseline,-4,0,granuloma annulare,1,Other,1,,,1
+MMRF_1177,Baseline,-1,0,enlarged prostate,,Prostate Cancer,1,,,1
+MMRF_1177,Baseline,-1,0,mitral valve prolapse,,Mitral valve dysfunction,1,,,1
+MMRF_1177,Baseline,-1,0,cataracts,,Cataracts,1,,,1
+MMRF_1208,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1208,Baseline,1,0,Heparitis B,,Hepatitis B,1,,,1
+MMRF_1205,Baseline,-13,0,uterine cancer 20 years ago,,Cancers (various),1,,,1
+MMRF_1205,Baseline,-13,0,left lower extremity chronic lymphedema,1,Other,1,,,1
+MMRF_1211,Baseline,-5,0,,,Acute renal failure,1,,,1
+MMRF_1211,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_1211,Baseline,-5,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1221,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1221,Baseline,1,0,anxiety,,Anxiety,1,,,1
+MMRF_1221,Baseline,1,0,asthma,,Asthma,1,,,1
+MMRF_1221,Baseline,1,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1221,Baseline,1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1221,Baseline,1,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1230,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1230,Baseline,1,0,anemia,,Anemia,1,,,1
+MMRF_1257,Baseline,-11,0,Hypertension,,Hypertension,1,,,1
+MMRF_1257,Baseline,-11,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1257,Baseline,-11,0,kidney stones,,Nephrolithiasis,1,,,1
+MMRF_1257,Baseline,-11,0,Irritable bowel syndrome,,Colitis,1,,,1
+MMRF_1257,Baseline,-11,0,thalassemia minor,1,Other,1,,,1
+MMRF_1274,Baseline,-15,0,,,Cerebrovascular disease,1,,,1
+MMRF_1274,Baseline,-15,0,Hypertension,,Hypertension,1,,,1
+MMRF_1274,Baseline,-15,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1286,Baseline,-18,0,Bradycardia/pacemaker placement,,Bradycardia,1,,,1
+MMRF_1286,Baseline,-18,0,Nephrolitiasis,,Nephrolithiasis,1,,,1
+MMRF_1325,Baseline,-7,0,,,Chronic renal failure,1,,,1
+MMRF_1325,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_1325,Baseline,-7,0,,,Osteoarthritis,1,,,1
+MMRF_1325,Baseline,-7,0,hypertension,,Hypertension,1,,,1
+MMRF_1325,Baseline,-7,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1394,Baseline,1,0,asthma,,Asthma,1,,,1
+MMRF_1394,Baseline,1,0,carpal tunnel syndrome,,Carpal Tunnel Syndrome,1,,,1
+MMRF_1394,Baseline,1,0,arthritis,,Arthritis,1,,,1
+MMRF_1408,Baseline,1,0,Gastritis,,Gastritis,1,,,1
+MMRF_1418,Baseline,-4,0,Lyme disease,,Lyme Disease,1,,,1
+MMRF_1423,Baseline,-14,0,,,COPD,1,,,1
+MMRF_1423,Baseline,-14,0,,,Diabetes,1,,,1
+MMRF_1423,Baseline,-14,0,,,Ischemic heart disease,1,,,1
+MMRF_1423,Baseline,-14,0,,,Osteoarthritis,1,,,1
+MMRF_1423,Baseline,-14,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1423,Baseline,-14,0,,,Peripheral neuropathy,1,,,1
+MMRF_1423,Baseline,-14,0,Depression,,Depression,1,,,1
+MMRF_1423,Baseline,-14,0,MIgranes,,Headache,1,,,1
+MMRF_1423,Baseline,-14,0,HTN,,Hypertension,1,,,1
+MMRF_1423,Baseline,-14,0,iirritable bowel disease,,Colitis,1,,,1
+MMRF_1423,Baseline,-14,0,Anxiety,,Anxiety,1,,,1
+MMRF_1423,Baseline,-14,0,Pulmonary fibrosis,1,Other,1,,,1
+MMRF_1423,Baseline,-14,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1423,Baseline,-14,0,undocumented reported hystory of Polycytenia vera,,Cancers (various),1,,,1
+MMRF_1423,Baseline,-14,0,knee surgery,,Surgery (various),1,,,1
+MMRF_1426,Baseline,1,0,Bursitis,,Bursitis,1,,,1
+MMRF_1434,Baseline,11,0,,,Diabetes,1,,,1
+MMRF_1461,Baseline,-7,0,,,Peripheral neuropathy,1,,,1
+MMRF_1461,Baseline,-7,0,HTN (hypertension),,Hypertension,1,,,1
+MMRF_1461,Baseline,-7,0,Kidney stones,,Nephrolithiasis,1,,,1
+MMRF_1461,Baseline,-7,0,Gout,,Gout,1,,,1
+MMRF_1461,Baseline,-7,0,Thyroid nodule,1,Other,1,,,1
+MMRF_1466,Baseline,-3,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1466,Baseline,-3,0,Hypertension,,Hypertension,1,,,1
+MMRF_1466,Baseline,-3,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1478,Baseline,1,0,Hiatal hernia,,Hiatal Hernia,1,,,1
+MMRF_1485,Baseline,-13,0,,,Ischemic heart disease,1,,,1
+MMRF_1485,Baseline,-13,0,,,Liver disease,1,,,1
+MMRF_1485,Baseline,-13,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1485,Baseline,-13,0,,,Peripheral neuropathy,1,,,1
+MMRF_1485,Baseline,-13,0,ankylosing spondylitis,,Arthritis,1,,,1
+MMRF_1485,Baseline,-13,0,chronic duodenitis,,Gastritis,1,,,1
+MMRF_1485,Baseline,-13,0,rheumatic fever,1,Other,1,,,1
+MMRF_1485,Baseline,-13,0,gout,,Gout,1,,,1
+MMRF_1485,Baseline,-13,0,hypertension,,Hypertension,1,,,1
+MMRF_1485,Baseline,-13,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1485,Baseline,-13,0,mitral valve dysfunction,,Mitral valve dysfunction,1,,,1
+MMRF_1485,Baseline,-13,0,pancreatic cyst,1,Other,1,,,1
+MMRF_1485,Baseline,-13,0,mild pulmonic valve regurgitation,1,Other,1,,,1
+MMRF_1497,Baseline,-8,0,hypertension,,Hypertension,1,,,1
+MMRF_1497,Baseline,-8,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1489,Baseline,-16,0,,,Osteoarthritis,1,,,1
+MMRF_1489,Baseline,-16,0,Hypothyroidsm,,Hypothyroidism,1,,,1
+MMRF_1489,Baseline,-16,0,Bipolar disorder,,Bipolar Disorder,1,,,1
+MMRF_1489,Baseline,-16,0,Renal cyst,1,Other,1,,,1
+MMRF_1491,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_1491,Baseline,-5,0,,,Peripheral neuropathy,1,,,1
+MMRF_1491,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_1491,Baseline,-5,0,cutaneous vasculitis with longstanding lower extremity,1,Other,1,,,1
+MMRF_1491,Baseline,-5,0,nephrolithiasis,,Nephrolithiasis,1,,,1
+MMRF_1494,Baseline,-13,0,,,Osteoarthritis,1,,,1
+MMRF_1494,Baseline,-13,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1494,Baseline,-13,0,HYpertension,,Hypertension,1,,,1
+MMRF_1500,Baseline,-18,0,,,Cerebrovascular disease,1,,,1
+MMRF_1500,Baseline,-18,0,,,Diabetes,1,,,1
+MMRF_1500,Baseline,-18,0,,,Liver disease,1,,,1
+MMRF_1500,Baseline,-18,0,,,Osteoarthritis,1,,,1
+MMRF_1500,Baseline,-18,0,,,Peripheral neuropathy,1,,,1
+MMRF_1500,Baseline,-18,0,Hypertension,,Hypertension,1,,,1
+MMRF_1523,Baseline,0,0,,,COPD,1,,,1
+MMRF_1523,Baseline,0,0,,,Ischemic heart disease,1,,,1
+MMRF_1523,Baseline,0,0,,,Liver disease,1,,,1
+MMRF_1523,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1523,Baseline,0,0,Seasonal Allergic Rhinitis,,Allergies,1,,,1
+MMRF_1537,Baseline,-12,0,,,Diabetes,1,,,1
+MMRF_1537,Baseline,-12,0,hypertension,,Hypertension,1,,,1
+MMRF_1537,Baseline,-12,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1537,Baseline,-12,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1537,Baseline,-12,0,renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1573,Baseline,1,0,Gastro-esophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1573,Baseline,1,0,Glaucoma,,Glaucoma,1,,,1
+MMRF_1573,Baseline,1,0,prolapsed rectum,1,Other,1,,,1
+MMRF_1583,Baseline,-3,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1583,Baseline,-3,0,ovarian cyst,1,Other,1,,,1
+MMRF_1583,Baseline,-3,0,T10 compression fracture secondary to fall,,Fractures,1,,,1
+MMRF_1583,Baseline,-3,0,oophorectomy,,Surgery (various),1,,,1
+MMRF_1625,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1625,Baseline,0,0,gun shot wound,1,Other,1,,,1
+MMRF_1625,Baseline,0,0,hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1625,Baseline,0,0,femur fracture surgery,,Fractures,1,,,1
+MMRF_1625,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_1625,Baseline,0,0,chronic back pain,,Pain (various),1,,,1
+MMRF_1625,Baseline,0,0,chronic osteomyelitis,,Osteomyelitis,1,,,1
+MMRF_1640,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1640,Baseline,1,0,chronic diarrhea,,Diarrhea,1,,,1
+MMRF_1640,Baseline,1,0,cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_1640,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1640,Baseline,1,0,Atrial fibrilation,,Atrial Fibrillation,1,,,1
+MMRF_1640,Baseline,1,0,chronic hiccups,1,Other,1,,,1
+MMRF_1640,Baseline,1,0,colitis,,Colitis,1,,,1
+MMRF_1683,Baseline,-34,0,hypertension,,Hypertension,1,,,1
+MMRF_1683,Baseline,-34,0,benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1683,Baseline,-34,0,pleurisy,1,Other,1,,,1
+MMRF_1714,Baseline,-2,0,,,Diabetes,1,,,1
+MMRF_1714,Baseline,-2,0,hypertension,,Hypertension,1,,,1
+MMRF_1714,Baseline,-2,0,gout,,Gout,1,,,1
+MMRF_1714,Baseline,-2,0,nephrolithiasis,,Nephrolithiasis,1,,,1
+MMRF_1714,Baseline,-2,0,torn rotator cuff,1,Other,1,,,1
+MMRF_1731,Baseline,1,0,Gastritis,,Gastritis,1,,,1
+MMRF_1730,Baseline,-22,0,,,Osteoarthritis,1,,,1
+MMRF_1730,Baseline,-22,0,peptic ulcer disease,,Ulcers,1,,,1
+MMRF_1759,Baseline,-5,0,,,Ischemic heart disease,1,,,1
+MMRF_1759,Baseline,-5,0,hypertension,,Hypertension,1,,,1
+MMRF_1759,Baseline,-5,0,benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1759,Baseline,-5,0,zenker's diverticula,1,Other,1,,,1
+MMRF_1759,Baseline,-5,0,mild gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1758,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1758,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_1758,Baseline,0,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1758,Baseline,0,0,low back pain,,Pain (various),1,,,1
+MMRF_1781,Baseline,-26,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1781,Baseline,-26,0,hiatal hernia,,Hiatal Hernia,1,,,1
+MMRF_1781,Baseline,-26,0,gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1787,Baseline,-17,0,,,Chronic renal failure,1,,,1
+MMRF_1787,Baseline,-17,0,hypertension,,Hypertension,1,,,1
+MMRF_1787,Baseline,-17,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1787,Baseline,-17,0,heart abnormalities,1,Other,1,,,1
+MMRF_1787,Baseline,-17,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1787,Baseline,-17,0,ulcer disease,,Ulcers,1,,,1
+MMRF_1787,Baseline,-17,0,enlarged prostate,,Prostate Cancer,1,,,1
+MMRF_1787,Baseline,-17,0,benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1802,Baseline,-9,0,,,Osteoarthritis,1,,,1
+MMRF_1802,Baseline,-9,0,hypertension,,Hypertension,1,,,1
+MMRF_1802,Baseline,-9,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1801,Baseline,-13,0,asthma,,Asthma,1,,,1
+MMRF_1801,Baseline,-13,0,nephrolitiasis,,Nephrolithiasis,1,,,1
+MMRF_1807,Baseline,-48,0,,,Diabetes,1,,,1
+MMRF_1807,Baseline,-48,0,,,Liver disease,1,,,1
+MMRF_1807,Baseline,-48,0,Hypertension,,Hypertension,1,,,1
+MMRF_1807,Baseline,-48,0,cataracts,,Cataracts,1,,,1
+MMRF_1807,Baseline,-48,0,subdural hydromas,1,Other,1,,,1
+MMRF_1807,Baseline,-48,0,GI bleed in April of 2013,1,Other,1,,,1
+MMRF_1807,Baseline,-48,0,cognitive impairment,1,Other,1,,,1
+MMRF_1819,Baseline,-34,0,,,Chronic renal failure,1,,,1
+MMRF_1819,Baseline,-34,0,,,Congestive heart failure,1,,,1
+MMRF_1819,Baseline,-34,0,,,Diabetes,1,,,1
+MMRF_1819,Baseline,-34,0,Hypertension,,Hypertension,1,,,1
+MMRF_1819,Baseline,-34,0,Atrial fibrilation,,Atrial Fibrillation,1,,,1
+MMRF_1865,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1865,Baseline,0,0,atypical lobular hyperplasia left breast,,Breast Cancer,1,,,1
+MMRF_1865,Baseline,0,0,splenic aneurism,1,Other,1,,,1
+MMRF_1895,Baseline,-11,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1895,Baseline,-11,0,Hypertension,,Hypertension,1,,,1
+MMRF_1895,Baseline,-11,0,Hyperlodemia,1,Other,1,,,1
+MMRF_1936,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1936,Baseline,1,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1936,Baseline,1,0,herpes Zoster,,Shingles,1,,,1
+MMRF_1941,Baseline,-58,0,lyme disease,,Lyme Disease,1,,,1
+MMRF_1941,Baseline,-58,0,babesiosis,1,Other,1,,,1
+MMRF_1941,Baseline,-58,0,Zenker's diverticulum,1,Other,1,,,1
+MMRF_1941,Baseline,-58,0,hiatal hernia,,Hiatal Hernia,1,,,1
+MMRF_1947,Baseline,-24,0,,,Osteoarthritis,1,,,1
+MMRF_1947,Baseline,-24,0,carpal tunnel syndrome,,Carpal Tunnel Syndrome,1,,,1
+MMRF_1951,Baseline,-3,0,,,Ischemic heart disease,1,,,1
+MMRF_1951,Baseline,-3,0,HTN,,Hypertension,1,,,1
+MMRF_1951,Baseline,-3,0,High Cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_1951,Baseline,-3,0,Depression,,Depression,1,,,1
+MMRF_1967,Baseline,-1,0,,,Diabetes,1,,,1
+MMRF_1967,Baseline,-1,0,hypertension,,Hypertension,1,,,1
+MMRF_1965,Baseline,-1,0,hypertension,,Hypertension,1,,,1
+MMRF_1965,Baseline,-1,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1965,Baseline,-1,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1981,Baseline,-4,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1981,Baseline,-4,0,lumbar disk disease,1,Other,1,,,1
+MMRF_1981,Baseline,-4,0,hypertension,,Hypertension,1,,,1
+MMRF_1988,Baseline,-46,0,chronic lung disease,1,Other,1,,,1
+MMRF_1988,Baseline,-46,0,sinus infections,,Sinusitis,1,,,1
+MMRF_1988,Baseline,-46,0,intervertebral disk disease,1,Other,1,,,1
+MMRF_1988,Baseline,-46,0,spinal stenosis,,Spinal Stenosis,1,,,1
+MMRF_1988,Baseline,-46,0,asthma,,Asthma,1,,,1
+MMRF_1988,Baseline,-46,0,multiple pneumonias,,Pneumonia,1,,,1
+MMRF_1988,Baseline,-46,0,osteoporosis,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2059,Baseline,1,0,kidney stones,,Nephrolithiasis,1,,,1
+MMRF_2059,Baseline,1,0,herniated disk,1,Other,1,,,1
+MMRF_2059,Baseline,1,0,nephrolithiasis,,Nephrolithiasis,1,,,1
+MMRF_2059,Baseline,1,0,diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2059,Baseline,1,0,sciatica,1,Other,1,,,1
+MMRF_2061,Baseline,-5,0,,,Osteoarthritis,1,,,1
+MMRF_2061,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2061,Baseline,-5,0,,,Peripheral neuropathy,1,,,1
+MMRF_2061,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_2061,Baseline,-5,0,hyperparathyroidism,1,Other,1,,,1
+MMRF_2061,Baseline,-5,0,bicuspid aortic valve,1,Other,1,,,1
+MMRF_2076,Baseline,-3,0,,,Diabetes,1,,,1
+MMRF_2076,Baseline,-3,0,Hypertension,,Hypertension,1,,,1
+MMRF_2129,Baseline,-6,0,anxiety,,Anxiety,1,,,1
+MMRF_2129,Baseline,-6,0,iron deficiency,1,Other,1,,,1
+MMRF_2129,Baseline,-6,0,back pain,,Pain (various),1,,,1
+MMRF_1755,Baseline,-53,0,,,Osteoarthritis,1,,,1
+MMRF_1755,Baseline,-53,0,Hypertension,,Hypertension,1,,,1
+MMRF_1755,Baseline,-53,0,gastritis/esophagitis,,Gastritis,1,,,1
+MMRF_1755,Baseline,-53,0,chronic renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1755,Baseline,-53,0,glaucoma,,Glaucoma,1,,,1
+MMRF_2152,Baseline,-10,0,solitary left breast cyst,1,Other,1,,,1
+MMRF_2152,Baseline,-10,0,allergic rhinitis,,Allergies,1,,,1
+MMRF_2172,Baseline,0,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2172,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_2172,Baseline,0,0,chronic atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2172,Baseline,0,0,nephrolithiasis,,Nephrolithiasis,1,,,1
+MMRF_2172,Baseline,0,0,recurrent urinary tract infections,1,Other,1,,,1
+MMRF_2172,Baseline,0,0,numerous precancerous lesions,1,Other,1,,,1
+MMRF_2231,Baseline,-19,0,borderline hyperglycemia,,Hyperglycemia,1,,,1
+MMRF_2231,Baseline,-19,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2267,Baseline,-5,0,,,Osteoarthritis,1,,,1
+MMRF_2267,Baseline,-5,0,,,Peripheral neuropathy,1,,,1
+MMRF_2267,Baseline,-5,0,fibromyalgia,,Fibromyalgia,1,,,1
+MMRF_2267,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_2267,Baseline,-5,0,interstitial cystitis,1,Other,1,,,1
+MMRF_2267,Baseline,-5,0,Reumatic fever,1,Other,1,,,1
+MMRF_2267,Baseline,-5,0,chronic sinusitis,,Sinusitis,1,,,1
+MMRF_2291,Baseline,-104,0,,,Ischemic heart disease,1,,,1
+MMRF_2291,Baseline,-104,0,diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2291,Baseline,-104,0,Hypertension,,Hypertension,1,,,1
+MMRF_2310,Baseline,-20,0,,,Diabetes,1,,,1
+MMRF_2310,Baseline,-20,0,Hypertension,,Hypertension,1,,,1
+MMRF_2310,Baseline,-20,0,Gastro-esophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_2316,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_2316,Baseline,1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2316,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2316,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2330,Baseline,-10,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2330,Baseline,-10,0,hydronephrosis,1,Other,1,,,1
+MMRF_2330,Baseline,-10,0,trigger finger of the right hand,1,Other,1,,,1
+MMRF_2330,Baseline,-10,0,chronic back pain,,Pain (various),1,,,1
+MMRF_2331,Baseline,-23,0,,,COPD,1,,,1
+MMRF_2331,Baseline,-23,0,Hypertension,,Hypertension,1,,,1
+MMRF_2378,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2378,Baseline,1,0,Diverticulitis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2407,Baseline,-9,0,diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2407,Baseline,-9,0,asthma,,Asthma,1,,,1
+MMRF_2407,Baseline,-9,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2407,Baseline,-9,0,carpal tunnel sydrome,,Carpal Tunnel Syndrome,1,,,1
+MMRF_2422,Baseline,-34,0,,,Chronic renal failure,1,,,1
+MMRF_2422,Baseline,-34,0,,,Diabetes,1,,,1
+MMRF_2422,Baseline,-34,0,,,Ischemic heart disease,1,,,1
+MMRF_2422,Baseline,-34,0,Systemic Amyloidosis,1,Other,1,,,1
+MMRF_2437,Baseline,-3,0,Hypertension,,Hypertension,1,,,1
+MMRF_2489,Baseline,1,0,asthma,,Asthma,1,,,1
+MMRF_2489,Baseline,1,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2489,Baseline,1,0,basal cell cancer,,Skin Cancer,1,,,1
+MMRF_2489,Baseline,1,0,prostatitis,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2499,Baseline,0,0,Sigmoid Diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2499,Baseline,0,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2506,Baseline,-16,0,,,Diabetes,1,,,1
+MMRF_2506,Baseline,-16,0,,,Osteoarthritis,1,,,1
+MMRF_2506,Baseline,-16,0,,,Peripheral neuropathy,1,,,1
+MMRF_2506,Baseline,-16,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2506,Baseline,-16,0,anemia,,Anemia,1,,,1
+MMRF_2548,Baseline,1,0,Anxiety,,Anxiety,1,,,1
+MMRF_2554,Baseline,1,0,HYpercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2554,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2554,Baseline,1,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2574,Baseline,-2,0,Chronic back pain,,Pain (various),1,,,1
+MMRF_2574,Baseline,-2,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2574,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_2593,Baseline,-2,0,hypertension,,Hypertension,1,,,1
+MMRF_2593,Baseline,-2,0,renal insufficiency,,Kidney Disease,1,,,1
+MMRF_2593,Baseline,-2,0,elevated cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_2593,Baseline,-2,0,peripheral vascular disease,,Peripheral vascular disease,1,,,1
+MMRF_2596,Baseline,-19,0,chronic anemia,,Anemia,1,,,1
+MMRF_2596,Baseline,-19,0,Unspecified hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2596,Baseline,-19,0,hypertension,,Hypertension,1,,,1
+MMRF_2596,Baseline,-19,0,History of gastroesophageal reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_2605,Baseline,-7,0,Hashimoto’s thyroiditis/hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2605,Baseline,-7,0,Blepharitis of both eyes,1,Other,1,,,1
+MMRF_2619,Baseline,420,0,,,Diabetes,1,,,1
+MMRF_2619,Baseline,420,0,Atrial fibrilation,,Atrial Fibrillation,1,,,1
+MMRF_1264,Baseline,-12,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1264,Baseline,-12,0,pre-diabetes,,Diabetes,1,,,1
+MMRF_1547,Baseline,-9,0,Full blown nephrotic syndrome,1,Other,1,,,1
+MMRF_1570,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1570,Baseline,1,0,degenerative joint disease - cervical spine,,Arthritis,1,,,1
+MMRF_1570,Baseline,1,0,breast cancer,,Breast Cancer,1,,,1
+MMRF_1586,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1586,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2168,Baseline,-39,0,,,Diabetes,1,,,1
+MMRF_2168,Baseline,-39,0,hypertension with stage I diastolic dysfunction and moderate LVH,,Hypertension,1,,,1
+MMRF_2215,Baseline,-20,0,,,Diabetes,1,,,1
+MMRF_2215,Baseline,-20,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2215,Baseline,-20,0,basal cell and squamous cell carcinomas,,Skin Cancer,1,,,1
+MMRF_1011,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_1011,Baseline,-9,0,rib pain,,Pain (various),1,,,1
+MMRF_1011,Baseline,-9,0,fatugue,,Fatigue,1,,,1
+MMRF_1011,Baseline,-9,0,severe back pain,,Pain (various),1,,,1
+MMRF_1011,Baseline,-9,0,peripheral neuropathy,,Peripheral neuropathy,1,,,1
+MMRF_1034,Baseline,-23,0,Pleuritic chest pain,,Pain (various),1,,,1
+MMRF_1034,Baseline,-23,0,rib and back pain,,Pain (various),1,,,1
+MMRF_1034,Baseline,-23,0,bony pain,,Pain (various),1,,,1
+MMRF_1029,Baseline,-4,0,,,Diabetes,1,,,1
+MMRF_1029,Baseline,-4,0,Hypertension,,Hypertension,1,,,1
+MMRF_1029,Baseline,-4,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1029,Baseline,-4,0,obesity,,Obesity,1,,,1
+MMRF_1029,Baseline,-4,0,bone pain,,Pain (various),1,,,1
+MMRF_1042,Baseline,-1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1042,Baseline,-1,0,Wegener Granulomatosis,1,Other,1,,,1
+MMRF_1042,Baseline,-1,0,hypertension,,Hypertension,1,,,1
+MMRF_1042,Baseline,-1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1039,Baseline,-5,0,hypertension,,Hypertension,1,,,1
+MMRF_1055,Baseline,-15,0,Peptic Ulcer Disease,,Ulcers,1,,,1
+MMRF_1055,Baseline,-15,0,Esophogeal Strictures,1,Other,1,,,1
+MMRF_1124,Baseline,-3,0,,,Chronic renal failure,1,,,1
+MMRF_1166,Baseline,-30,0,,,COPD,1,,,1
+MMRF_1166,Baseline,-30,0,Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1166,Baseline,-30,0,Hypertension,,Hypertension,1,,,1
+MMRF_1333,Baseline,-3,0,,,Congestive heart failure,1,,,1
+MMRF_1342,Baseline,-12,0,,,Acute renal failure,1,,,1
+MMRF_1550,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_1970,Baseline,1,0,Chronic Kidney Disease,,Kidney Disease,1,,,1
+MMRF_2057,Baseline,-6,0,hypertension,,Hypertension,1,,,1
+MMRF_2057,Baseline,-6,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2480,Baseline,-19,0,,,Congestive heart failure,1,,,1
+MMRF_2480,Baseline,-19,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2480,Baseline,-19,0,hypertension,,Hypertension,1,,,1
+MMRF_2480,Baseline,-19,0,hip pain,,Pain (various),1,,,1
+MMRF_2480,Baseline,-19,0,renal insufficiency,,Kidney Disease,1,,,1
+MMRF_2480,Baseline,-19,0,gout,,Gout,1,,,1
+MMRF_2560,Baseline,-32,0,,,Ischemic heart disease,1,,,1
+MMRF_2560,Baseline,-32,0,Rosacea,1,Other,1,,,1
+MMRF_1031,Baseline,-1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1031,Baseline,-1,0,Bronchitis,,COPD,1,,,1
+MMRF_1031,Baseline,-1,0,Heart Abnormalities,1,Other,1,,,1
+MMRF_1018,Baseline,-8,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1018,Baseline,-8,0,Atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1018,Baseline,-8,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1018,Baseline,-8,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1018,Baseline,-8,0,colitis,,Colitis,1,,,1
+MMRF_1018,Baseline,-8,0,diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_1041,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1041,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1041,Baseline,1,0,"Hep C w/o coma, chronic",,Hepatitis C,1,,,1
+MMRF_1041,Baseline,1,0,SIRS (systemic inflammatory response syndrome,1,Other,1,,,1
+MMRF_1041,Baseline,1,0,urosepsis,1,Other,1,,,1
+MMRF_1016,Baseline,1,0,asthma,,Asthma,1,,,1
+MMRF_1054,Baseline,-8,0,,,Peripheral neuropathy,1,,,1
+MMRF_1054,Baseline,-8,0,Melanoma in the left leg 15 years ago,,Skin Cancer,1,,,1
+MMRF_1054,Baseline,-8,0,Migraines,,Headache,1,,,1
+MMRF_1054,Baseline,-8,0,partial hysterectomy in 1996,,Surgery (various),1,,,1
+MMRF_1049,Baseline,-4,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1049,Baseline,-4,0,,,Peripheral neuropathy,1,,,1
+MMRF_1100,Baseline,-19,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1100,Baseline,-19,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1100,Baseline,-19,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1100,Baseline,-19,0,Kidney stone,,Nephrolithiasis,1,,,1
+MMRF_1100,Baseline,-19,0,infections of genitourinary tract antepartum,1,Other,1,,,1
+MMRF_1100,Baseline,-19,0,cervical cancer,,Cancers (various),1,,,1
+MMRF_1127,Baseline,-36,0,,,COPD,1,,,1
+MMRF_1127,Baseline,-36,0,,,Osteoarthritis,1,,,1
+MMRF_1127,Baseline,-36,0,hypertension,,Hypertension,1,,,1
+MMRF_1151,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1151,Baseline,1,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1151,Baseline,1,0,BPH,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1151,Baseline,1,0,Degenerative joint disease,,Arthritis,1,,,1
+MMRF_1151,Baseline,1,0,B12 deficiency,,Vitamin deficiency,1,,,1
+MMRF_1151,Baseline,1,0,Anemia,,Anemia,1,,,1
+MMRF_1151,Baseline,1,0,Left bundle branch block,1,Other,1,,,1
+MMRF_1151,Baseline,1,0,atrial premature contractions,1,Other,1,,,1
+MMRF_1156,Baseline,0,0,Superficial bladder cancer s/p laser ablation and BCG immunotherapy - (2002,,Bladder Cancer,1,,,1
+MMRF_1156,Baseline,0,0,B12 deficiency,,Vitamin deficiency,1,,,1
+MMRF_1156,Baseline,0,0,vertebral facture,,Fractures,1,,,1
+MMRF_1156,Baseline,0,0,raynaud's phenomen,1,Other,1,,,1
+MMRF_1156,Baseline,0,0,micohematuria,1,Other,1,,,1
+MMRF_1156,Baseline,0,0,depression,,Depression,1,,,1
+MMRF_1156,Baseline,0,0,asthma,,Asthma,1,,,1
+MMRF_1157,Baseline,-13,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1157,Baseline,-13,0,Primary open angle glaucoma,1,Other,1,,,1
+MMRF_1179,Baseline,-2,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1179,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_1179,Baseline,-2,0,Prostatic hypertrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1179,Baseline,-2,0,neurofibroma,,Cancers (various),1,,,1
+MMRF_1179,Baseline,-2,0,hyperlipemia,,Hyperlipidemia,1,,,1
+MMRF_1179,Baseline,-2,0,coronary artery bypass surgery,,Coronary artery disease,1,,,1
+MMRF_1212,Baseline,-1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1212,Baseline,-1,0,Chronic renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1212,Baseline,-1,0,degenerative joint disease,,Arthritis,1,,,1
+MMRF_1212,Baseline,-1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1212,Baseline,-1,0,arthritis,,Arthritis,1,,,1
+MMRF_1212,Baseline,-1,0,hypercholesteremia,,Hypercholesterolemia,1,,,1
+MMRF_1223,Baseline,4,0,,,Acute renal failure,1,,,1
+MMRF_1224,Baseline,-1,0,,,Acute renal failure,1,,,1
+MMRF_1224,Baseline,-1,0,,,Congestive heart failure,1,,,1
+MMRF_1224,Baseline,-1,0,,,Diabetes,1,,,1
+MMRF_1224,Baseline,-1,0,Cerebral infarction,,Cerebrovascular disease,1,,,1
+MMRF_1224,Baseline,-1,0,hypocomplementemia,1,Other,1,,,1
+MMRF_1224,Baseline,-1,0,stronglyoidiasis,1,Other,1,,,1
+MMRF_1224,Baseline,-1,0,pulmonary hypertension,,Hypertension,1,,,1
+MMRF_1231,Baseline,1,0,Coronary Artery disease,,Coronary artery disease,1,,,1
+MMRF_1231,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1231,Baseline,1,0,chronic renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1232,Baseline,-6,0,acute kidney injury,,Acute renal failure,1,,,1
+MMRF_1232,Baseline,-6,0,Hypertension,,Hypertension,1,,,1
+MMRF_1244,Baseline,-10,0,,,Acute renal failure,1,,,1
+MMRF_1244,Baseline,-10,0,asthma,,Asthma,1,,,1
+MMRF_1244,Baseline,-10,0,Hypertension,,Hypertension,1,,,1
+MMRF_1244,Baseline,-10,0,high cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_1244,Baseline,-10,0,hypothyroid,,Hypothyroidism,1,,,1
+MMRF_1252,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1266,Baseline,-13,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1266,Baseline,-13,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1275,Baseline,-6,0,Mild Renal impairment,,Kidney Disease,1,,,1
+MMRF_1280,Baseline,-7,0,Hypertension,,Hypertension,1,,,1
+MMRF_1280,Baseline,-7,0,Mitral valve prolapse,,Mitral valve dysfunction,1,,,1
+MMRF_1314,Baseline,-6,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1311,Baseline,-14,0,,,Diabetes,1,,,1
+MMRF_1311,Baseline,-14,0,hypertension,,Hypertension,1,,,1
+MMRF_1324,Baseline,-2,0,,,Diabetes,1,,,1
+MMRF_1324,Baseline,-2,0,hypertension,,Hypertension,1,,,1
+MMRF_1324,Baseline,-2,0,kidney disease,,Kidney Disease,1,,,1
+MMRF_1345,Baseline,-6,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1345,Baseline,-6,0,gout,,Gout,1,,,1
+MMRF_1345,Baseline,-6,0,asthma,,Asthma,1,,,1
+MMRF_1352,Baseline,-6,0,hypertension,,Hypertension,1,,,1
+MMRF_1354,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_1354,Baseline,0,0,high cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_1089,Baseline,-26,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1089,Baseline,-26,0,Arteriosclerosis,,Coronary artery disease,1,,,1
+MMRF_1089,Baseline,-26,0,Hypertension,,Hypertension,1,,,1
+MMRF_1089,Baseline,-26,0,Heartburn,,Gastroesophageal reflux disease,1,,,1
+MMRF_1387,Baseline,-3,0,hypertension,,Hypertension,1,,,1
+MMRF_1389,Baseline,-17,0,peripheral vascular disease,,Peripheral vascular disease,1,,,1
+MMRF_1391,Baseline,-19,0,,,Osteoarthritis,1,,,1
+MMRF_1391,Baseline,-19,0,Hepatitis C,,Hepatitis C,1,,,1
+MMRF_1391,Baseline,-19,0,Shortness of Breath,1,Other,1,,,1
+MMRF_1391,Baseline,-19,0,Multiple Thyroid Nodules,1,Other,1,,,1
+MMRF_1446,Baseline,1,0,Coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1446,Baseline,1,0,Obstructive sleep apnea,,Sleep apnea,1,,,1
+MMRF_1446,Baseline,1,0,L shoulder bursitis,,Bursitis,1,,,1
+MMRF_1446,Baseline,1,0,obesity,,Obesity,1,,,1
+MMRF_1446,Baseline,1,0,myocardial infarction,,Myocardial infarction,1,,,1
+MMRF_1450,Baseline,-12,0,hypertension,,Hypertension,1,,,1
+MMRF_1450,Baseline,-12,0,depression,,Depression,1,,,1
+MMRF_1455,Baseline,-13,0,hypertension,,Hypertension,1,,,1
+MMRF_1455,Baseline,-13,0,depression,,Depression,1,,,1
+MMRF_1454,Baseline,-27,0,azithromycin allergy,,Allergies,1,,,1
+MMRF_1474,Baseline,-6,0,Herpes Zoster,,Shingles,1,,,1
+MMRF_1479,Baseline,-2,0,Hypercholesteremia,,Hypercholesterolemia,1,,,1
+MMRF_1502,Baseline,-3,0,seasonal depression,,Depression,1,,,1
+MMRF_1502,Baseline,-3,0,Rotator cuff tear s/p fall 4/8/13,1,Other,1,,,1
+MMRF_1502,Baseline,-3,0,"Gastric ulcer June 25, 2013",,Ulcers,1,,,1
+MMRF_1502,Baseline,-3,0,Basal cell carcinoma 2008 on nose s/p Mohs surgery,,Skin Cancer,1,,,1
+MMRF_1502,Baseline,-3,0,Breast calcifcations - biopsied 20 years ago - normal,1,Other,1,,,1
+MMRF_1502,Baseline,-3,0,Uterine polyps s/p D&C * 2 ~2008,1,Other,1,,,1
+MMRF_1502,Baseline,-3,0,Symptomatic menopause - LMP 2005 - on bioidenticals until few weeks ago,1,Other,1,,,1
+MMRF_1510,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1510,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_1510,Baseline,0,0,migraines,,Headache,1,,,1
+MMRF_1510,Baseline,0,0,ulcer of gastric fundus,,Ulcers,1,,,1
+MMRF_1510,Baseline,0,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1510,Baseline,0,0,benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1510,Baseline,0,0,Elevated uric acid in blood,,Gout,1,,,1
+MMRF_1513,Baseline,-19,0,hypertension,,Hypertension,1,,,1
+MMRF_1513,Baseline,-19,0,Cluster headache,,Headache,1,,,1
+MMRF_1513,Baseline,-19,0,"Lyme disease '11, '12",,Lyme Disease,1,,,1
+MMRF_1516,Baseline,-17,0,Prostate Cancer 12 Years ago approx 2001,,Prostate Cancer,1,,,1
+MMRF_1516,Baseline,-17,0,Kyphoplasty T11-L3,,Surgery (various),1,,,1
+MMRF_1622,Baseline,-3,0,hypertension,,Hypertension,1,,,1
+MMRF_1628,Baseline,-22,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1628,Baseline,-22,0,,,Peripheral neuropathy,1,,,1
+MMRF_1628,Baseline,-22,0,Vitamin B deficiency,,Vitamin deficiency,1,,,1
+MMRF_1628,Baseline,-22,0,Celiac Disease 2004,,Celiac Disease,1,,,1
+MMRF_1628,Baseline,-22,0,Mitral Valve Prolapse 1980.,,Mitral valve dysfunction,1,,,1
+MMRF_1628,Baseline,-22,0,Hysterectomy 1996. LMP 2/2006.,,Surgery (various),1,,,1
+MMRF_1637,Baseline,-10,0,,,Diabetes,1,,,1
+MMRF_1637,Baseline,-10,0,Depression,,Depression,1,,,1
+MMRF_1637,Baseline,-10,0,Arthritis,,Arthritis,1,,,1
+MMRF_1637,Baseline,-10,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1665,Baseline,-6,0,adhesive allergy - hives,,Allergies,1,,,1
+MMRF_1665,Baseline,-6,0,Osteonecrosis of jaw due to drug  - 2008,1,Other,1,,,1
+MMRF_1665,Baseline,-6,0,thyroid disease,1,Other,1,,,1
+MMRF_1677,Baseline,-26,0,Hypertension,,Hypertension,1,,,1
+MMRF_1677,Baseline,-26,0,Degeneraitve Joint Disease,,Arthritis,1,,,1
+MMRF_1677,Baseline,-26,0,hypertension,,Hypertension,1,,,1
+MMRF_1677,Baseline,-26,0,Raynaud’s phenomenon,1,Other,1,,,1
+MMRF_1677,Baseline,-26,0,anemia,,Anemia,1,,,1
+MMRF_1677,Baseline,-26,0,chronic sinusitis,,Sinusitis,1,,,1
+MMRF_1677,Baseline,-26,0,high fever,1,Other,1,,,1
+MMRF_1677,Baseline,-26,0,arthritis,,Arthritis,1,,,1
+MMRF_1686,Baseline,-17,0,anemia during pregnancy,,Anemia,1,,,1
+MMRF_1686,Baseline,-17,0,Shingles of the left lower abdomen in 05/2013,,Shingles,1,,,1
+MMRF_1710,Baseline,-7,0,mild asthma,,Asthma,1,,,1
+MMRF_1710,Baseline,-7,0,allergy to pollen,,Allergies,1,,,1
+MMRF_1710,Baseline,-7,0,allergy to metal,,Allergies,1,,,1
+MMRF_1710,Baseline,-7,0,uterine fribromas,1,Other,1,,,1
+MMRF_1710,Baseline,-7,0,allergy to cats,,Allergies,1,,,1
+MMRF_1710,Baseline,-7,0,allergy to dogs,,Allergies,1,,,1
+MMRF_1710,Baseline,-7,0,allergy to horses,,Allergies,1,,,1
+MMRF_1698,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_1698,Baseline,0,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1746,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1746,Baseline,1,0,Congestive Heart Failure,,Congestive heart failure,1,,,1
+MMRF_1744,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1744,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1744,Baseline,1,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1768,Baseline,-14,0,"Thyroid carcinoma, s/p total thyroidectomy and sub-total parathyroidectomy",,Cancers (various),1,,,1
+MMRF_1768,Baseline,-14,0,Hypocalcemia/ hypoparathyroidism manifest by muscle spasms,1,Other,1,,,1
+MMRF_1768,Baseline,-14,0,Lap banding for morbid obesity,,Surgery (various),1,,,1
+MMRF_1768,Baseline,-14,0,Hyperlipemia,,Hyperlipidemia,1,,,1
+MMRF_1768,Baseline,-14,0,Sleep apnea,,Sleep apnea,1,,,1
+MMRF_1768,Baseline,-14,0,Obesity,,Obesity,1,,,1
+MMRF_1768,Baseline,-14,0,Hypoparathyroidism,1,Other,1,,,1
+MMRF_1768,Baseline,-14,0,"thyroid carcinoma 1997, NED",,Cancers (various),1,,,1
+MMRF_1808,Baseline,-13,0,"Essential hypertension, benign",,Hypertension,1,,,1
+MMRF_1830,Baseline,1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1830,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1830,Baseline,1,0,Anemia,,Anemia,1,,,1
+MMRF_1830,Baseline,1,0,Bruising tendency,1,Other,1,,,1
+MMRF_1871,Baseline,-1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1871,Baseline,-1,0,Gastroesophageal reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_1921,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_1992,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1992,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1992,Baseline,1,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1992,Baseline,1,0,cholecystectomy,,Surgery (various),1,,,1
+MMRF_1998,Baseline,-12,0,,,Diabetes,1,,,1
+MMRF_1998,Baseline,-12,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1998,Baseline,-12,0,obstructive sleep apnea,,Sleep apnea,1,,,1
+MMRF_1998,Baseline,-12,0,gout,,Gout,1,,,1
+MMRF_1998,Baseline,-12,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1998,Baseline,-12,0,chronic kidney disease,,Kidney Disease,1,,,1
+MMRF_2000,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2000,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2000,Baseline,1,0,Renal calculi,,Nephrolithiasis,1,,,1
+MMRF_2002,Baseline,-18,0,Atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2002,Baseline,-18,0,myocardial infarction,,Myocardial infarction,1,,,1
+MMRF_2018,Baseline,-11,0,Hypertension,,Hypertension,1,,,1
+MMRF_2018,Baseline,-11,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2018,Baseline,-11,0,Prostatic hyperthropy,,Prostate Cancer,1,,,1
+MMRF_2018,Baseline,-11,0,"Tinnitus,",,Hearing loss / Tinnitus,1,,,1
+MMRF_2018,Baseline,-11,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2081,Baseline,-4,0,Recurrent bronchitis,,COPD,1,,,1
+MMRF_2107,Baseline,-2,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2107,Baseline,-2,0,colecystectomy laparoscopic,,Surgery (various),1,,,1
+MMRF_2144,Baseline,-38,0,Diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2144,Baseline,-38,0,Hypertension,,Hypertension,1,,,1
+MMRF_2144,Baseline,-38,0,Gout,,Gout,1,,,1
+MMRF_2176,Baseline,-26,0,Uterine myomectomy,1,Other,1,,,1
+MMRF_2180,Baseline,-20,0,,,Diabetes,1,,,1
+MMRF_2180,Baseline,-20,0,Elevated ESR,1,Other,1,,,1
+MMRF_2180,Baseline,-20,0,Hypertension,,Hypertension,1,,,1
+MMRF_2180,Baseline,-20,0,Anemia,,Anemia,1,,,1
+MMRF_2180,Baseline,-20,0,"HYSTERECTOMY, TOTAL ABDOMINAL",,Surgery (various),1,,,1
+MMRF_2289,Baseline,-6,0,Hypertension,,Hypertension,1,,,1
+MMRF_2344,Baseline,-8,0,Hypertension,,Hypertension,1,,,1
+MMRF_2344,Baseline,-8,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2353,Baseline,-32,0,hypertension,,Hypertension,1,,,1
+MMRF_2353,Baseline,-32,0,asthma,,Asthma,1,,,1
+MMRF_2353,Baseline,-32,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2353,Baseline,-32,0,cat hair allergy,,Allergies,1,,,1
+MMRF_2353,Baseline,-32,0,hypotrophic cardiomyopathy,1,Other,1,,,1
+MMRF_2366,Baseline,-19,0,hypertension,,Hypertension,1,,,1
+MMRF_2366,Baseline,-19,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2366,Baseline,-19,0,Percocet allergy,,Allergies,1,,,1
+MMRF_2366,Baseline,-19,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2366,Baseline,-19,0,reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_2366,Baseline,-19,0,pulmonary embolism,1,Other,1,,,1
+MMRF_2373,Baseline,-12,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2373,Baseline,-12,0,Hearing loss,,Hearing loss / Tinnitus,1,,,1
+MMRF_2373,Baseline,-12,0,Skin cancer s/p mohs surgery - BCC and SCC on face - 2002,,Skin Cancer,1,,,1
+MMRF_2373,Baseline,-12,0,Scoliosis,1,Other,1,,,1
+MMRF_2373,Baseline,-12,0,Vitamin D deficiency,,Vitamin deficiency,1,,,1
+MMRF_2404,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2404,Baseline,1,0,insomnia,,Insomnia,1,,,1
+MMRF_2404,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2404,Baseline,1,0,shellfish derived allergy,,Allergies,1,,,1
+MMRF_2410,Baseline,-9,0,Hep C - genotype 1a,,Hepatitis C,1,,,1
+MMRF_2410,Baseline,-9,0,HTN,,Hypertension,1,,,1
+MMRF_2410,Baseline,-9,0,Prediabetes,,Diabetes,1,,,1
+MMRF_2445,Baseline,-66,0,,,Diabetes,1,,,1
+MMRF_2445,Baseline,-66,0,,,Osteoarthritis,1,,,1
+MMRF_2445,Baseline,-66,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2445,Baseline,-66,0,chondrosarcoma,,Cancers (various),1,,,1
+MMRF_2538,Baseline,-10,0,,,Liver disease,1,,,1
+MMRF_2550,Baseline,-17,0,,,Diabetes,1,,,1
+MMRF_2550,Baseline,-17,0,hypertension,,Hypertension,1,,,1
+MMRF_2550,Baseline,-17,0,Anemia,,Anemia,1,,,1
+MMRF_2577,Baseline,-18,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2577,Baseline,-18,0,GERD/duodenitis,,Gastroesophageal reflux disease,1,,,1
+MMRF_2577,Baseline,-18,0,Depression,,Depression,1,,,1
+MMRF_2577,Baseline,-18,0,Acute coronary syndrome,,Myocardial infarction,1,,,1
+MMRF_2614,Baseline,1,0,asthma,,Asthma,1,,,1
+MMRF_1037,Baseline,-13,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1102,Baseline,-25,0,,,Cerebrovascular disease,1,,,1
+MMRF_1102,Baseline,-25,0,Degenerative joint disease with L4-5 fusion,,Arthritis,1,,,1
+MMRF_1475,Baseline,-21,0,Hypertension,,Hypertension,1,,,1
+MMRF_1735,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1735,Baseline,1,0,,,Peripheral neuropathy,1,,,1
+MMRF_1368,Baseline,11,0,,,Diabetes,1,,,1
+MMRF_1180,Baseline,-6,0,,,Acute renal failure,1,,,1
+MMRF_1180,Baseline,-6,0,"Breast Biopsy, No Cancer",1,Other,1,,,1
+MMRF_1180,Baseline,-6,0,Breast Reduction and Reconstruction,,Surgery (various),1,,,1
+MMRF_1180,Baseline,-6,0,"Retinal Detachment, Left",1,Other,1,,,1
+MMRF_1180,Baseline,-6,0,Anemia,,Anemia,1,,,1
+MMRF_1180,Baseline,-6,0,Stomach Ulcer,,Ulcers,1,,,1
+MMRF_1180,Baseline,-6,0,Bladder Sling,,Surgery (various),1,,,1
+MMRF_1188,Baseline,-27,0,,,COPD,1,,,1
+MMRF_1188,Baseline,-27,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1188,Baseline,-27,0,,,Ischemic heart disease,1,,,1
+MMRF_1188,Baseline,-27,0,,,Osteoarthritis,1,,,1
+MMRF_1213,Baseline,-13,0,,,COPD,1,,,1
+MMRF_1268,Baseline,-13,0,,,Peripheral neuropathy,1,,,1
+MMRF_1603,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1603,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1603,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1719,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1719,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1719,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1719,Baseline,1,0,Orthopedic-Back fracture,,Fractures,1,,,1
+MMRF_1815,Baseline,-7,0,,,COPD,1,,,1
+MMRF_1949,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_2216,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_2429,Baseline,-6,0,Hypertension,,Hypertension,1,,,1
+MMRF_2429,Baseline,-6,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2429,Baseline,-6,0,heart disease,,Coronary artery disease,1,,,1
+MMRF_2429,Baseline,-6,0,Anemia,,Anemia,1,,,1
+MMRF_2429,Baseline,-6,0,Fatigue,,Fatigue,1,,,1
+MMRF_2429,Baseline,-6,0,Cough,1,Other,1,,,1
+MMRF_2562,Baseline,-10,0,,,Ischemic heart disease,1,,,1
+MMRF_2562,Baseline,-10,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1020,Baseline,-14,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1020,Baseline,-14,0,Hypertension,,Hypertension,1,,,1
+MMRF_1045,Baseline,-30,0,,,Osteoarthritis,1,,,1
+MMRF_1045,Baseline,-30,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1044,Baseline,-13,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1046,Baseline,4,0,Tremulousness,1,Other,1,,,1
+MMRF_1059,Baseline,0,0,Hepatitis B,,Hepatitis B,1,,,1
+MMRF_1074,Baseline,-6,0,,,Congestive heart failure,1,,,1
+MMRF_1074,Baseline,-6,0,,,Liver disease,1,,,1
+MMRF_1150,Baseline,-21,0,,,Diabetes,1,,,1
+MMRF_1150,Baseline,-21,0,,,Peripheral neuropathy,1,,,1
+MMRF_1150,Baseline,-21,0,Chronic kidney disease,,Kidney Disease,1,,,1
+MMRF_1150,Baseline,-21,0,Hypertension,,Hypertension,1,,,1
+MMRF_1150,Baseline,-21,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1181,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_1181,Baseline,-2,0,Systolic Heart Failure,1,Other,1,,,1
+MMRF_1181,Baseline,-2,0,Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1258,Baseline,-22,0,,,Diabetes,1,,,1
+MMRF_1281,Baseline,-4,0,,,Chronic renal failure,1,,,1
+MMRF_1281,Baseline,-4,0,,,Congestive heart failure,1,,,1
+MMRF_1361,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1392,Baseline,-5,0,,,Acute renal failure,1,,,1
+MMRF_1420,Baseline,-4,0,,,Renal dialysis,1,,,1
+MMRF_1420,Baseline,-4,0,Plycystic kidney disease,,Kidney Disease,1,,,1
+MMRF_1420,Baseline,-4,0,End-stage renal disease,,Kidney Disease,1,,,1
+MMRF_1520,Baseline,-18,0,Hypertension,,Hypertension,1,,,1
+MMRF_1520,Baseline,-18,0,Glaucoma,,Glaucoma,1,,,1
+MMRF_1520,Baseline,-18,0,"Total abdominal hysterectomy, beningn 2011",,Surgery (various),1,,,1
+MMRF_1520,Baseline,-18,0,Chronic low back pain,,Pain (various),1,,,1
+MMRF_1540,Baseline,-41,0,hypertension,,Hypertension,1,,,1
+MMRF_1540,Baseline,-41,0,peripheral vascular disease,,Peripheral vascular disease,1,,,1
+MMRF_1540,Baseline,-41,0,colovesical fistula,1,Other,1,,,1
+MMRF_1540,Baseline,-41,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1540,Baseline,-41,0,"Cervical cancer, 2000",,Cancers (various),1,,,1
+MMRF_1576,Baseline,-1,0,Compression Fracture,,Fractures,1,,,1
+MMRF_1576,Baseline,-1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1576,Baseline,-1,0,Intellectual Disability,1,Other,1,,,1
+MMRF_1576,Baseline,-1,0,Pathological Fracture,,Fractures,1,,,1
+MMRF_1621,Baseline,-60,0,,,Osteoarthritis,1,,,1
+MMRF_1621,Baseline,-60,0,Back Pain,,Pain (various),1,,,1
+MMRF_1630,Baseline,0,0,Dysphagia,1,Other,1,,,1
+MMRF_1652,Baseline,-20,0,Hypertension,,Hypertension,1,,,1
+MMRF_1652,Baseline,-20,0,Essential Thrombocytosis,1,Other,1,,,1
+MMRF_1652,Baseline,-20,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1652,Baseline,-20,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1652,Baseline,-20,0,Spinal Stenosis,,Spinal Stenosis,1,,,1
+MMRF_1652,Baseline,-20,0,"Vulvar Mass, benign, excision 8/2013",1,Other,1,,,1
+MMRF_1690,Baseline,-17,0,,,Osteoarthritis,1,,,1
+MMRF_1749,Baseline,1,0,depression,,Depression,1,,,1
+MMRF_1773,Baseline,1,0,"Testicular Cancer, 1999 cure",,Cancers (various),1,,,1
+MMRF_1773,Baseline,1,0,chronic cough,,COPD,1,,,1
+MMRF_1797,Baseline,-20,0,hypertension,,Hypertension,1,,,1
+MMRF_1797,Baseline,-20,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1797,Baseline,-20,0,obesity,,Obesity,1,,,1
+MMRF_1797,Baseline,-20,0,rheumatoid arthritis,,Arthritis,1,,,1
+MMRF_2005,Baseline,-46,0,Hypothroidism,,Hypothyroidism,1,,,1
+MMRF_2005,Baseline,-46,0,Fibroids,1,Other,1,,,1
+MMRF_2021,Baseline,-21,0,Hypertension,,Hypertension,1,,,1
+MMRF_2021,Baseline,-21,0,Deep venous thrombosis,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2056,Baseline,-4,0,,,Diabetes,1,,,1
+MMRF_2056,Baseline,-4,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2091,Baseline,-20,0,Goiter,1,Other,1,,,1
+MMRF_2091,Baseline,-20,0,Re-entrant atrial tachycardia,1,Other,1,,,1
+MMRF_2122,Baseline,-6,0,"BLADDER CANCER, 2007 EXCISION",,Bladder Cancer,1,,,1
+MMRF_2238,Baseline,6,0,,,Diabetes,1,,,1
+MMRF_2238,Baseline,6,0,,,Ischemic heart disease,1,,,1
+MMRF_2238,Baseline,6,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1085,Baseline,-13,0,Hypertension,,Hypertension,1,,,1
+MMRF_1085,Baseline,-13,0,Barrett esophagus,1,Other,1,,,1
+MMRF_1085,Baseline,-13,0,Benign tumor on spine during childhood (surgically resected),1,Other,1,,,1
+MMRF_1233,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1233,Baseline,1,0,Hypertennsion,,Hypertension,1,,,1
+MMRF_1233,Baseline,1,0,Bradycardia,,Bradycardia,1,,,1
+MMRF_1233,Baseline,1,0,Back pain due to trauma (post surgery),,Pain (various),1,,,1
+MMRF_1233,Baseline,1,0,Cataract,,Cataracts,1,,,1
+MMRF_1233,Baseline,1,0,Glaucoma,,Glaucoma,1,,,1
+MMRF_1327,Baseline,-4,0,,,COPD,1,,,1
+MMRF_1327,Baseline,-4,0,hypertension,,Hypertension,1,,,1
+MMRF_1327,Baseline,-4,0,asthma,,Asthma,1,,,1
+MMRF_1327,Baseline,-4,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1327,Baseline,-4,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1700,Baseline,1,0,,,Cerebrovascular disease,1,,,1
+MMRF_1700,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1700,Baseline,1,0,,,COPD,1,,,1
+MMRF_1700,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1700,Baseline,1,0,Hiatal hernia,,Hiatal Hernia,1,,,1
+MMRF_1700,Baseline,1,0,Nonbleeding duodenal ulcer,,Ulcers,1,,,1
+MMRF_1700,Baseline,1,0,Gastritis,,Gastritis,1,,,1
+MMRF_1700,Baseline,1,0,Diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_1700,Baseline,1,0,Internal hemorrhoids,1,Other,1,,,1
+MMRF_1739,Baseline,1,0,Migraine Headaches,,Headache,1,,,1
+MMRF_1739,Baseline,1,0,Anemia,,Anemia,1,,,1
+MMRF_1774,Baseline,-8,0,Hypertension,,Hypertension,1,,,1
+MMRF_1814,Baseline,-5,0,,,Ischemic heart disease,1,,,1
+MMRF_1814,Baseline,-5,0,"tonsillar squamous cell carcinoma (1994), no reocurrence",,Cancers (various),1,,,1
+MMRF_1814,Baseline,-5,0,Alzheimers dementia,1,Other,1,,,1
+MMRF_1814,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_1814,Baseline,-5,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1814,Baseline,-5,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1832,Baseline,-8,0,,,Acute renal failure,1,,,1
+MMRF_1832,Baseline,-8,0,,,Osteoarthritis,1,,,1
+MMRF_1832,Baseline,-8,0,Prostate cancer in 2007 (in remission),,Prostate Cancer,1,,,1
+MMRF_1832,Baseline,-8,0,Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1832,Baseline,-8,0,Hypertension,,Hypertension,1,,,1
+MMRF_1832,Baseline,-8,0,neurogenic bladder,1,Other,1,,,1
+MMRF_1841,Baseline,-12,0,,,Diabetes,1,,,1
+MMRF_1841,Baseline,-12,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2333,Baseline,-14,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2333,Baseline,-14,0,Hypertension,,Hypertension,1,,,1
+MMRF_2333,Baseline,-14,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2511,Baseline,-9,0,adrenal adenoma (benign tumor in 2012),1,Other,1,,,1
+MMRF_2511,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_1056,Baseline,-5,0,hypertension,,Hypertension,1,,,1
+MMRF_1057,Baseline,1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1057,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1060,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1070,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1070,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1070,Baseline,1,0,gastroesophageal reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_1097,Baseline,-13,0,,,COPD,1,,,1
+MMRF_1110,Baseline,-41,0,,,Diabetes,1,,,1
+MMRF_1110,Baseline,-41,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1110,Baseline,-41,0,peripheral vascular disease,,Peripheral vascular disease,1,,,1
+MMRF_1110,Baseline,-41,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1110,Baseline,-41,0,hypertension,,Hypertension,1,,,1
+MMRF_1119,Baseline,-3,0,,,Osteoarthritis,1,,,1
+MMRF_1138,Baseline,-2,0,,,Diabetes,1,,,1
+MMRF_1138,Baseline,-2,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1142,Baseline,-20,0,hypertension,,Hypertension,1,,,1
+MMRF_1142,Baseline,-20,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1142,Baseline,-20,0,gastroesophageal reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_1143,Baseline,-13,0,,,Diabetes,1,,,1
+MMRF_1143,Baseline,-13,0,,,Osteoarthritis,1,,,1
+MMRF_1143,Baseline,-13,0,hypertension,,Hypertension,1,,,1
+MMRF_1160,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1160,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1160,Baseline,1,0,neuropathy,,Peripheral neuropathy,1,,,1
+MMRF_1173,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1195,Baseline,-3,0,hypertension,,Hypertension,1,,,1
+MMRF_1219,Baseline,1,0,Acute Respitory Distress Syndrome,1,Other,1,,,1
+MMRF_1225,Baseline,-14,0,,,Osteoarthritis,1,,,1
+MMRF_1225,Baseline,-14,0,Hypertension,,Hypertension,1,,,1
+MMRF_1226,Baseline,1,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1269,Baseline,-16,0,,,Congestive heart failure,1,,,1
+MMRF_1270,Baseline,1,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1270,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1270,Baseline,1,0,Congestive heart failure,,Congestive heart failure,1,,,1
+MMRF_1356,Baseline,-27,0,,,Diabetes,1,,,1
+MMRF_1356,Baseline,-27,0,Arthritis,,Arthritis,1,,,1
+MMRF_1356,Baseline,-27,0,myocardial infarction,,Myocardial infarction,1,,,1
+MMRF_1356,Baseline,-27,0,ulcerative colitis,,Colitis,1,,,1
+MMRF_1373,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1373,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1373,Baseline,1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1390,Baseline,-2,0,hypertension,,Hypertension,1,,,1
+MMRF_1390,Baseline,-2,0,gastroesophageal relux,,Gastroesophageal reflux disease,1,,,1
+MMRF_1441,Baseline,-14,0,,,Osteoarthritis,1,,,1
+MMRF_1445,Baseline,-2,0,,,COPD,1,,,1
+MMRF_1511,Baseline,-10,0,,,Osteoarthritis,1,,,1
+MMRF_1511,Baseline,-10,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1511,Baseline,-10,0,Hypertension,,Hypertension,1,,,1
+MMRF_1511,Baseline,-10,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1511,Baseline,-10,0,Gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1511,Baseline,-10,0,Benign prostatic hypertrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1511,Baseline,-10,0,Gastric ulcer with with hemorrhage,,Ulcers,1,,,1
+MMRF_1511,Baseline,-10,0,Bradycardia,,Bradycardia,1,,,1
+MMRF_1624,Baseline,-8,0,Irritable bowel syndrome,,Colitis,1,,,1
+MMRF_1624,Baseline,-8,0,asthma,,Asthma,1,,,1
+MMRF_1667,Baseline,-28,0,hypertension,,Hypertension,1,,,1
+MMRF_1667,Baseline,-28,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1668,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1668,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1668,Baseline,1,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1760,Baseline,-6,0,,,Ischemic heart disease,1,,,1
+MMRF_1760,Baseline,-6,0,Parkinsons Disease w/dementia,,Parkinson's Disease,1,,,1
+MMRF_1760,Baseline,-6,0,"hyperglycemia, controlled with diet",,Hyperglycemia,1,,,1
+MMRF_1783,Baseline,-32,0,,,Diabetes,1,,,1
+MMRF_1783,Baseline,-32,0,,,Ischemic heart disease,1,,,1
+MMRF_1783,Baseline,-32,0,HTN,,Hypertension,1,,,1
+MMRF_1783,Baseline,-32,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1783,Baseline,-32,0,gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1783,Baseline,-32,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1783,Baseline,-32,0,osteomyelitis of the right foot,,Osteomyelitis,1,,,1
+MMRF_1783,Baseline,-32,0,amputation of the fourth toe,,Surgery (various),1,,,1
+MMRF_1783,Baseline,-32,0,kidney stones,,Nephrolithiasis,1,,,1
+MMRF_1784,Baseline,-40,0,borderline diabetes,,Diabetes,1,,,1
+MMRF_1839,Baseline,-13,0,,,Osteoarthritis,1,,,1
+MMRF_1839,Baseline,-13,0,borderline diabetes,,Diabetes,1,,,1
+MMRF_1851,Baseline,5,0,,,COPD,1,,,1
+MMRF_1851,Baseline,5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1889,Baseline,-26,0,,,Diabetes,1,,,1
+MMRF_1889,Baseline,-26,0,,,Osteoarthritis,1,,,1
+MMRF_1900,Baseline,-43,0,,,Ischemic heart disease,1,,,1
+MMRF_1900,Baseline,-43,0,,,Osteoarthritis,1,,,1
+MMRF_1953,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_1955,Baseline,1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1955,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1986,Baseline,13,0,,,Acute renal failure,1,,,1
+MMRF_1999,Baseline,-1,0,,,Osteoarthritis,1,,,1
+MMRF_2101,Baseline,-14,0,Hypertension,,Hypertension,1,,,1
+MMRF_2198,Baseline,1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2271,Baseline,-21,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2449,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_2514,Baseline,-3,0,,,COPD,1,,,1
+MMRF_2592,Baseline,-2,0,,,Acute renal failure,1,,,1
+MMRF_2611,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_2611,Baseline,-7,0,,,Osteoarthritis,1,,,1
+MMRF_2621,Baseline,-1,0,,,Acute renal failure,1,,,1
+MMRF_1013,Baseline,-12,0,Hypertension,,Hypertension,1,,,1
+MMRF_1013,Baseline,-12,0,Endometriosis,1,Other,1,,,1
+MMRF_1013,Baseline,-12,0,Shingles,,Shingles,1,,,1
+MMRF_1013,Baseline,-12,0,Hysterectomy,,Surgery (various),1,,,1
+MMRF_1073,Baseline,-8,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1073,Baseline,-8,0,Hx of breast cancer - mastectomy 1990,,Breast Cancer,1,,,1
+MMRF_1073,Baseline,-8,0,Hypertension,,Hypertension,1,,,1
+MMRF_1073,Baseline,-8,0,Graves Disease,,Hyperthyroidism,1,,,1
+MMRF_1076,Baseline,-30,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1076,Baseline,-30,0,Hypertension,,Hypertension,1,,,1
+MMRF_1092,Baseline,-41,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1115,Baseline,-9,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1115,Baseline,-9,0,Insomnia,,Insomnia,1,,,1
+MMRF_1115,Baseline,-9,0,Allergy to sulfa drugs,,Allergies,1,,,1
+MMRF_1134,Baseline,-13,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1153,Baseline,-34,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1185,Baseline,-9,0,,,Chronic renal failure,1,,,1
+MMRF_1235,Baseline,-7,0,Hx of right sided pleural effusion,1,Other,1,,,1
+MMRF_1235,Baseline,-7,0,Costochondritis,1,Other,1,,,1
+MMRF_1235,Baseline,-7,0,Anemia,,Anemia,1,,,1
+MMRF_1251,Baseline,-7,0,,,Acute renal failure,1,,,1
+MMRF_1290,Baseline,-3,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1284,Baseline,-2,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1304,Baseline,-5,0,,,Acute renal failure,1,,,1
+MMRF_1304,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_1304,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_1304,Baseline,-5,0,Heart murmur,1,Other,1,,,1
+MMRF_1323,Baseline,-16,0,,,Chronic renal failure,1,,,1
+MMRF_1323,Baseline,-16,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1323,Baseline,-16,0,fibromyalgia,,Fibromyalgia,1,,,1
+MMRF_1323,Baseline,-16,0,tachycardia,,Tachycardia,1,,,1
+MMRF_1323,Baseline,-16,0,Chronic joint Pain,,Pain (various),1,,,1
+MMRF_1328,Baseline,-7,0,Hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1328,Baseline,-7,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1328,Baseline,-7,0,Degenerative joint disease,,Arthritis,1,,,1
+MMRF_1374,Baseline,-21,0,,,Acute renal failure,1,,,1
+MMRF_1374,Baseline,-21,0,Hx of Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1415,Baseline,-3,0,,,Acute renal failure,1,,,1
+MMRF_1430,Baseline,11,0,,,Acute renal failure,1,,,1
+MMRF_1430,Baseline,11,0,,,Diabetes,1,,,1
+MMRF_1430,Baseline,11,0,,,Renal dialysis,1,,,1
+MMRF_1447,Baseline,-2,0,,,Diabetes,1,,,1
+MMRF_1447,Baseline,-2,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1539,Baseline,-9,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1546,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_1572,Baseline,-12,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1572,Baseline,-12,0,hypertension,,Hypertension,1,,,1
+MMRF_1595,Baseline,-13,0,Colon Cancer-1975,,Colon Cancer,1,,,1
+MMRF_1595,Baseline,-13,0,mild renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1602,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1602,Baseline,1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1602,Baseline,1,0,chronic constipation,1,Other,1,,,1
+MMRF_1602,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1602,Baseline,1,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1602,Baseline,1,0,Peptic ulcer disease,,Ulcers,1,,,1
+MMRF_1656,Baseline,-17,0,MI in 2011,,Myocardial infarction,1,,,1
+MMRF_1656,Baseline,-17,0,Kidney stones and recurring UTI's,,Nephrolithiasis,1,,,1
+MMRF_1713,Baseline,-3,0,hereditary spherocytosis,1,Other,1,,,1
+MMRF_1713,Baseline,-3,0,history of cardioversions and atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1722,Baseline,-3,0,,,Diabetes,1,,,1
+MMRF_1817,Baseline,-16,0,,,Osteoarthritis,1,,,1
+MMRF_1906,Baseline,-4,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1940,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_1940,Baseline,-5,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2001,Baseline,-82,0,,,Diabetes,1,,,1
+MMRF_2001,Baseline,-82,0,,,Osteoarthritis,1,,,1
+MMRF_2001,Baseline,-82,0,chronic back pain,,Pain (various),1,,,1
+MMRF_2137,Baseline,-37,0,Gilbert's Disease,1,Other,1,,,1
+MMRF_2140,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_2140,Baseline,-7,0,chronic anemia due to beta thal trait,,Anemia,1,,,1
+MMRF_2211,Baseline,-3,0,,,Acute renal failure,1,,,1
+MMRF_2239,Baseline,-51,0,,,Diabetes,1,,,1
+MMRF_2239,Baseline,-51,0,history of an MI,,Myocardial infarction,1,,,1
+MMRF_2284,Baseline,-27,0,,,Diabetes,1,,,1
+MMRF_2284,Baseline,-27,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2284,Baseline,-27,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2397,Baseline,-27,0,Significant for hypertension,,Hypertension,1,,,1
+MMRF_2383,Baseline,-12,0,diplopia,1,Other,1,,,1
+MMRF_2383,Baseline,-12,0,Facial parathesia,1,Other,1,,,1
+MMRF_2388,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2459,Baseline,-9,0,,,Diabetes,1,,,1
+MMRF_2459,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_1149,Baseline,-3,0,,,Osteoarthritis,1,,,1
+MMRF_1149,Baseline,-3,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1080,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1080,Baseline,1,0,BPH (Enlarged Prostate),,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1198,Baseline,-19,0,,,Acute renal failure,1,,,1
+MMRF_1198,Baseline,-19,0,,,Osteoarthritis,1,,,1
+MMRF_1339,Baseline,-23,0,,,Chronic renal failure,1,,,1
+MMRF_1236,Baseline,-50,0,Anemia since childhood,,Anemia,1,,,1
+MMRF_1236,Baseline,-50,0,Migraine headaches,,Headache,1,,,1
+MMRF_1236,Baseline,-50,0,Bilateral leg cramps,1,Other,1,,,1
+MMRF_1918,Baseline,-80,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2329,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_2329,Baseline,-6,0,,,Osteoarthritis,1,,,1
+MMRF_2329,Baseline,-6,0,hypertension,,Hypertension,1,,,1
+MMRF_2329,Baseline,-6,0,hyperlipedemia,,Hyperlipidemia,1,,,1
+MMRF_2329,Baseline,-6,0,kyphoplasty- 12/9/2014,,Surgery (various),1,,,1
+MMRF_1067,Baseline,-1,0,,,Osteoarthritis,1,,,1
+MMRF_1245,Baseline,-46,0,Cadaveric kidney transplant  in 2006,,Surgery (various),1,,,1
+MMRF_1245,Baseline,-46,0,Cardiomyopathy,1,Other,1,,,1
+MMRF_2119,Baseline,-11,0,,,Acute renal failure,1,,,1
+MMRF_2119,Baseline,-11,0,,,Chronic renal failure,1,,,1
+MMRF_2119,Baseline,-11,0,,,COPD,1,,,1
+MMRF_2119,Baseline,-11,0,History of invasive breast cancer 2012 currently on Femara adjuvant therapy,,Breast Cancer,1,,,1
+MMRF_2119,Baseline,-11,0,depression,,Depression,1,,,1
+MMRF_2119,Baseline,-11,0,hypertension,,Hypertension,1,,,1
+MMRF_2213,Baseline,-1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2213,Baseline,-1,0,myocardial myopathy,1,Other,1,,,1
+MMRF_2476,Baseline,-5,0,,,Osteoarthritis,1,,,1
+MMRF_2549,Baseline,7,0,,,Chronic renal failure,1,,,1
+MMRF_1309,Baseline,-21,0,,,Osteoarthritis,1,,,1
+MMRF_1309,Baseline,-21,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1309,Baseline,-21,0,A-fib,,Atrial Fibrillation,1,,,1
+MMRF_1309,Baseline,-21,0,HTN,,Hypertension,1,,,1
+MMRF_1309,Baseline,-21,0,Thyroid- hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1309,Baseline,-21,0,Endometriosis,1,Other,1,,,1
+MMRF_1309,Baseline,-21,0,Monoclonal Gamnopathy (IgG),1,Other,1,,,1
+MMRF_1309,Baseline,-21,0,Fatigue,,Fatigue,1,,,1
+MMRF_1309,Baseline,-21,0,Joint Pain,,Pain (various),1,,,1
+MMRF_1309,Baseline,-21,0,Anemia,,Anemia,1,,,1
+MMRF_1431,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_1431,Baseline,-9,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1077,Baseline,-21,0,,,Diabetes,1,,,1
+MMRF_1077,Baseline,-21,0,Hypertension,,Hypertension,1,,,1
+MMRF_1077,Baseline,-21,0,Interstitial lung disease,1,Other,1,,,1
+MMRF_1077,Baseline,-21,0,Atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1077,Baseline,-21,0,Acid reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_1077,Baseline,-21,0,Sleep apnea,,Sleep apnea,1,,,1
+MMRF_1077,Baseline,-21,0,Vitiligo,1,Other,1,,,1
+MMRF_1078,Baseline,-13,0,Asthma,,Asthma,1,,,1
+MMRF_1078,Baseline,-13,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1105,Baseline,-6,0,Seborrheic dermatitis,1,Other,1,,,1
+MMRF_1105,Baseline,-6,0,Nummular eczema,1,Other,1,,,1
+MMRF_1105,Baseline,-6,0,Hallux rigidus,,Arthritis,1,,,1
+MMRF_1105,Baseline,-6,0,Chronic back pain,,Pain (various),1,,,1
+MMRF_1105,Baseline,-6,0,Tubular adenoma,,Colon Cancer,1,,,1
+MMRF_1105,Baseline,-6,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1105,Baseline,-6,0,Migraine,,Headache,1,,,1
+MMRF_1136,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_1136,Baseline,-7,0,Hypertension,,Hypertension,1,,,1
+MMRF_1136,Baseline,-7,0,Depression,,Depression,1,,,1
+MMRF_1136,Baseline,-7,0,Enlarged Prostate/BPH,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1136,Baseline,-7,0,Glaucoma,,Glaucoma,1,,,1
+MMRF_1136,Baseline,-7,0,Retinal hemorrhage in right eye,1,Other,1,,,1
+MMRF_1148,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_1148,Baseline,0,0,Trigeminal neuralgia,,Pain (various),1,,,1
+MMRF_1189,Baseline,-11,0,,,Diabetes,1,,,1
+MMRF_1189,Baseline,-11,0,Hypertension,,Hypertension,1,,,1
+MMRF_1214,Baseline,-5,0,,,Acute renal failure,1,,,1
+MMRF_1214,Baseline,-5,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1335,Baseline,-6,0,Hypertension,,Hypertension,1,,,1
+MMRF_1335,Baseline,-6,0,Gout,,Gout,1,,,1
+MMRF_1335,Baseline,-6,0,Smoker,1,Other,1,,,1
+MMRF_1402,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1402,Baseline,1,0,Hypercholesteremia,,Hypercholesterolemia,1,,,1
+MMRF_1560,Baseline,-23,0,Detached retina,1,Other,1,,,1
+MMRF_1560,Baseline,-23,0,Irritible bowel syndrome,,Colitis,1,,,1
+MMRF_1560,Baseline,-23,0,History of cataracts,,Cataracts,1,,,1
+MMRF_1579,Baseline,17,0,Hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1579,Baseline,17,0,Pulomary hypertenstion,,Hypertension,1,,,1
+MMRF_1579,Baseline,17,0,Dyspnea and respiratory abnormality,1,Other,1,,,1
+MMRF_1579,Baseline,17,0,Acute kidney injury,,Acute renal failure,1,,,1
+MMRF_1761,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1761,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1761,Baseline,0,0,Cornary atherosclerotic disease,,Coronary artery disease,1,,,1
+MMRF_1761,Baseline,0,0,hyperlipidimia,,Hyperlipidemia,1,,,1
+MMRF_1761,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_1761,Baseline,0,0,Gout,,Gout,1,,,1
+MMRF_1761,Baseline,0,0,Arteriosclerotic cardiovascular disease,,Coronary artery disease,1,,,1
+MMRF_1761,Baseline,0,0,unstable angina,1,Other,1,,,1
+MMRF_1761,Baseline,0,0,obesity,,Obesity,1,,,1
+MMRF_2477,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_2477,Baseline,0,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2477,Baseline,0,0,Psoriasis,,Psoraisis,1,,,1
+MMRF_2477,Baseline,0,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1163,Baseline,-3,0,,,Acute renal failure,1,,,1
+MMRF_1186,Baseline,-23,0,,,Diabetes,1,,,1
+MMRF_1186,Baseline,-23,0,Parkinson's Disease,,Parkinson's Disease,1,,,1
+MMRF_1201,Baseline,-2,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1202,Baseline,-13,0,Hypertension,,Hypertension,1,,,1
+MMRF_1210,Baseline,8,0,Hypertension,,Hypertension,1,,,1
+MMRF_1293,Baseline,-66,0,,,Diabetes,1,,,1
+MMRF_1293,Baseline,-66,0,Hypertension,,Hypertension,1,,,1
+MMRF_1293,Baseline,-66,0,Hyperlipedemia,,Hyperlipidemia,1,,,1
+MMRF_1320,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1320,Baseline,1,0,Rheumatoid Arthritis,,Arthritis,1,,,1
+MMRF_1320,Baseline,1,0,Paraplegia,1,Other,1,,,1
+MMRF_1300,Baseline,-10,0,Anemia,,Anemia,1,,,1
+MMRF_1300,Baseline,-10,0,Anxiety,,Anxiety,1,,,1
+MMRF_1300,Baseline,-10,0,Arthritis,,Arthritis,1,,,1
+MMRF_1375,Baseline,0,0,Squamos cell carcinoma,,Skin Cancer,1,,,1
+MMRF_1490,Baseline,-8,0,Hypertension,,Hypertension,1,,,1
+MMRF_1518,Baseline,-12,0,Hypertension,,Hypertension,1,,,1
+MMRF_1518,Baseline,-12,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1518,Baseline,-12,0,Sinusitis,,Sinusitis,1,,,1
+MMRF_1518,Baseline,-12,0,Fibromyalgia,,Fibromyalgia,1,,,1
+MMRF_1518,Baseline,-12,0,Hyperlipedemia,,Hyperlipidemia,1,,,1
+MMRF_1518,Baseline,-12,0,IBS,,Colitis,1,,,1
+MMRF_1772,Baseline,-13,0,Hypertension,,Hypertension,1,,,1
+MMRF_1772,Baseline,-13,0,Asthma,,Asthma,1,,,1
+MMRF_2367,Baseline,-6,0,Hypertension,,Hypertension,1,,,1
+MMRF_2367,Baseline,-6,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2367,Baseline,-6,0,Aortic stenosis,1,Other,1,,,1
+MMRF_2412,Baseline,0,0,Anemia,,Anemia,1,,,1
+MMRF_2412,Baseline,0,0,Uterine Prolapse,1,Other,1,,,1
+MMRF_2412,Baseline,0,0,Scoliosis,1,Other,1,,,1
+MMRF_2458,Baseline,-13,0,Arthritis,,Arthritis,1,,,1
+MMRF_1152,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_1152,Baseline,-2,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1360,Baseline,-14,0,anemia,,Anemia,1,,,1
+MMRF_1484,Baseline,-29,0,renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1641,Baseline,-2,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2083,Baseline,-23,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2400,Baseline,-1,0,hypertension,,Hypertension,1,,,1
+MMRF_2400,Baseline,-1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2473,Baseline,-9,0,hypertension,,Hypertension,1,,,1
+MMRF_2473,Baseline,-9,0,generalized pain,,Pain (various),1,,,1
+MMRF_1310,Baseline,-4,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1407,Baseline,-12,0,depression,,Depression,1,,,1
+MMRF_1556,Baseline,-5,0,,,Chronic renal failure,1,,,1
+MMRF_1556,Baseline,-5,0,proteinuria,1,Other,1,,,1
+MMRF_1617,Baseline,2,0,,,Diabetes,1,,,1
+MMRF_1617,Baseline,2,0,hypertension,,Hypertension,1,,,1
+MMRF_1617,Baseline,2,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1723,Baseline,-77,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1723,Baseline,-77,0,hypertension,,Hypertension,1,,,1
+MMRF_1723,Baseline,-77,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1984,Baseline,-10,0,,,Diabetes,1,,,1
+MMRF_1984,Baseline,-10,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1984,Baseline,-10,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1107,Baseline,-14,0,,,Congestive heart failure,1,,,1
+MMRF_1227,Baseline,-11,0,,,Cerebrovascular disease,1,,,1
+MMRF_1227,Baseline,-11,0,History of Salivary Gland Cancer (2011),,Cancers (various),1,,,1
+MMRF_1227,Baseline,-11,0,History of Colon Cancer (2000),,Colon Cancer,1,,,1
+MMRF_1271,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1271,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1271,Baseline,1,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1271,Baseline,1,0,Arthritis,,Arthritis,1,,,1
+MMRF_1271,Baseline,1,0,Renal disease,,Kidney Disease,1,,,1
+MMRF_1440,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1440,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1440,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1440,Baseline,1,0,Elevated cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_1687,Baseline,-36,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1687,Baseline,-36,0,Hypertension,,Hypertension,1,,,1
+MMRF_1687,Baseline,-36,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1687,Baseline,-36,0,Non invasive Bladder Cancer,,Bladder Cancer,1,,,1
+MMRF_1687,Baseline,-36,0,Prostate Cancer,,Prostate Cancer,1,,,1
+MMRF_1687,Baseline,-36,0,Appenedectomy,,Surgery (various),1,,,1
+MMRF_1687,Baseline,-36,0,Coranary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1687,Baseline,-36,0,Cataract Surgery,,Cataracts,1,,,1
+MMRF_1929,Baseline,-1,0,,,Osteoarthritis,1,,,1
+MMRF_1929,Baseline,-1,0,Reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_1929,Baseline,-1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1929,Baseline,-1,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1929,Baseline,-1,0,Dysphagia to solids,1,Other,1,,,1
+MMRF_1929,Baseline,-1,0,weakness,1,Other,1,,,1
+MMRF_1929,Baseline,-1,0,fatigue,,Fatigue,1,,,1
+MMRF_1929,Baseline,-1,0,Degenerative joint disease,,Arthritis,1,,,1
+MMRF_2132,Baseline,-74,0,,,Chronic renal failure,1,,,1
+MMRF_2132,Baseline,-74,0,,,Osteoarthritis,1,,,1
+MMRF_2132,Baseline,-74,0,Hypertension,,Hypertension,1,,,1
+MMRF_2132,Baseline,-74,0,Anemia,,Anemia,1,,,1
+MMRF_1388,Baseline,3,0,,,Chronic renal failure,1,,,1
+MMRF_1388,Baseline,3,0,Rheumatoid Arthritis,,Arthritis,1,,,1
+MMRF_2598,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_2598,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2598,Baseline,1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2598,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2598,Baseline,1,0,tachycardia,,Tachycardia,1,,,1
+MMRF_2598,Baseline,1,0,renal insufficiency,,Kidney Disease,1,,,1
+MMRF_1170,Baseline,-52,0,,,Diabetes,1,,,1
+MMRF_1346,Baseline,-30,0,,,Diabetes,1,,,1
+MMRF_1108,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1169,Baseline,-33,0,,,Ischemic heart disease,1,,,1
+MMRF_1312,Baseline,-6,0,,,Peripheral neuropathy,1,,,1
+MMRF_1796,Baseline,-12,0,,,Acute renal failure,1,,,1
+MMRF_2186,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_2186,Baseline,-6,0,,,Osteoarthritis,1,,,1
+MMRF_2186,Baseline,-6,0,,,Peripheral neuropathy,1,,,1
+MMRF_2545,Baseline,1,0,,,Congestive heart failure,1,,,1
+MMRF_2545,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2545,Baseline,1,0,tinnitus secondary to automobile accident,,Hearing loss / Tinnitus,1,,,1
+MMRF_2545,Baseline,1,0,gastritis,,Gastritis,1,,,1
+MMRF_1239,Baseline,-28,0,Plasmacytoma,1,Other,1,,,1
+MMRF_1273,Baseline,-15,0,,,COPD,1,,,1
+MMRF_1273,Baseline,-15,0,hypertension,,Hypertension,1,,,1
+MMRF_1273,Baseline,-15,0,actinic keratosis,1,Other,1,,,1
+MMRF_1273,Baseline,-15,0,cough,1,Other,1,,,1
+MMRF_1273,Baseline,-15,0,diarrhea,,Diarrhea,1,,,1
+MMRF_1273,Baseline,-15,0,myalgias,1,Other,1,,,1
+MMRF_1273,Baseline,-15,0,night sweats,1,Other,1,,,1
+MMRF_1273,Baseline,-15,0,anorexia,1,Other,1,,,1
+MMRF_1109,Baseline,-23,0,,,Diabetes,1,,,1
+MMRF_1109,Baseline,-23,0,Hypertension,,Hypertension,1,,,1
+MMRF_1109,Baseline,-23,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1146,Baseline,-12,0,,,Diabetes,1,,,1
+MMRF_1146,Baseline,-12,0,Hypertension,,Hypertension,1,,,1
+MMRF_1146,Baseline,-12,0,hypercholestorolemia,,Hypercholesterolemia,1,,,1
+MMRF_1184,Baseline,-4,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1261,Baseline,-6,0,Childhood Epilepsy,1,Other,1,,,1
+MMRF_1261,Baseline,-6,0,Costochondritis,1,Other,1,,,1
+MMRF_1260,Baseline,-8,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1260,Baseline,-8,0,history of early stage colon cancer 15 years status post colectomy,,Colon Cancer,1,,,1
+MMRF_1295,Baseline,-12,0,,,Acute renal failure,1,,,1
+MMRF_1295,Baseline,-12,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1344,Baseline,1,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1538,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_1538,Baseline,-7,0,Hypertension,,Hypertension,1,,,1
+MMRF_1538,Baseline,-7,0,High Cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_1588,Baseline,-76,0,hypertension,,Hypertension,1,,,1
+MMRF_1588,Baseline,-76,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1588,Baseline,-76,0,hypercholesteia,,Hypercholesterolemia,1,,,1
+MMRF_1740,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1740,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_1740,Baseline,0,0,Coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1794,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1980,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1980,Baseline,0,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1980,Baseline,0,0,Coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2173,Baseline,-7,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2173,Baseline,-7,0,History of seizure disorder,,Epilepsy,1,,,1
+MMRF_2173,Baseline,-7,0,hypertension,,Hypertension,1,,,1
+MMRF_2173,Baseline,-7,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2173,Baseline,-7,0,Bone pain,,Pain (various),1,,,1
+MMRF_2173,Baseline,-7,0,Depression,,Depression,1,,,1
+MMRF_2587,Baseline,-6,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2587,Baseline,-6,0,degenerative joint disease,,Arthritis,1,,,1
+MMRF_1228,Baseline,-2,0,,,Osteoarthritis,1,,,1
+MMRF_1659,Baseline,1,0,Grade 3 Anemia intermittent,,Anemia,1,,,1
+MMRF_1691,Baseline,-29,0,hypertension,,Hypertension,1,,,1
+MMRF_2461,Baseline,-14,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1254,Baseline,-12,0,,,Osteoarthritis,1,,,1
+MMRF_1254,Baseline,-12,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1348,Baseline,1,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1348,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1371,Baseline,-10,0,hypertension,,Hypertension,1,,,1
+MMRF_1371,Baseline,-10,0,unilateral renal agenesis,1,Other,1,,,1
+MMRF_1377,Baseline,-4,0,,,COPD,1,,,1
+MMRF_1377,Baseline,-4,0,,,Diabetes,1,,,1
+MMRF_1377,Baseline,-4,0,resected oncocytomas upper and lower pole of the left kidney April 2008,,Cancers (various),1,,,1
+MMRF_1377,Baseline,-4,0,hypertension,,Hypertension,1,,,1
+MMRF_1377,Baseline,-4,0,hypothyroid,,Hypothyroidism,1,,,1
+MMRF_1703,Baseline,-12,0,,,COPD,1,,,1
+MMRF_1703,Baseline,-12,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2326,Baseline,-25,0,,,Diabetes,1,,,1
+MMRF_2326,Baseline,-25,0,Squamous Cell Carninoma of Head & Neck 2011,,Skin Cancer,1,,,1
+MMRF_1090,Baseline,-5,0,,,Congestive heart failure,1,,,1
+MMRF_1386,Baseline,-8,0,,,Chronic renal failure,1,,,1
+MMRF_1386,Baseline,-8,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1403,Baseline,-9,0,,,Acute renal failure,1,,,1
+MMRF_1403,Baseline,-9,0,Anemia,,Anemia,1,,,1
+MMRF_1493,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1608,Baseline,-4,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1689,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1689,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1718,Baseline,15,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1718,Baseline,15,0,,,Diabetes,1,,,1
+MMRF_1795,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1795,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1795,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1825,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1835,Baseline,-17,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2072,Baseline,-17,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2095,Baseline,-18,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2159,Baseline,-5,0,Stiff Person Syndrome,1,Other,1,,,1
+MMRF_2236,Baseline,-12,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2236,Baseline,-12,0,Compression Fracture,,Fractures,1,,,1
+MMRF_2244,Baseline,-17,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2292,Baseline,-20,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2325,Baseline,-25,0,Hypertension,,Hypertension,1,,,1
+MMRF_2363,Baseline,-13,0,Breast Cancer,,Breast Cancer,1,,,1
+MMRF_2394,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_2394,Baseline,-9,0,Bi Polar Disorder,,Bipolar Disorder,1,,,1
+MMRF_2399,Baseline,-7,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2399,Baseline,-7,0,Acute Kidney Injury,,Acute renal failure,1,,,1
+MMRF_2524,Baseline,-26,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2524,Baseline,-26,0,osteoarthritis,,Arthritis,1,,,1
+MMRF_2524,Baseline,-26,0,obesity,,Obesity,1,,,1
+MMRF_2524,Baseline,-26,0,genital herpes,1,Other,1,,,1
+MMRF_2524,Baseline,-26,0,gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_2599,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_2599,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2599,Baseline,-5,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2599,Baseline,-5,0,Thyroid disorder,1,Other,1,,,1
+MMRF_2599,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_1120,Baseline,1,0,obesity,,Obesity,1,,,1
+MMRF_1120,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1120,Baseline,1,0,depression,,Depression,1,,,1
+MMRF_1140,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1167,Baseline,11,0,,,Peripheral neuropathy,1,,,1
+MMRF_1587,Baseline,1,0,,,Congestive heart failure,1,,,1
+MMRF_1857,Baseline,-5,0,hypertension,,Hypertension,1,,,1
+MMRF_1857,Baseline,-5,0,glaucoma,,Glaucoma,1,,,1
+MMRF_1857,Baseline,-5,0,"blepharitis, right eye",1,Other,1,,,1
+MMRF_1857,Baseline,-5,0,tinnitus,,Hearing loss / Tinnitus,1,,,1
+MMRF_1857,Baseline,-5,0,onychomycosis,1,Other,1,,,1
+MMRF_1857,Baseline,-5,0,overactive bladder,1,Other,1,,,1
+MMRF_1857,Baseline,-5,0,benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1857,Baseline,-5,0,scoliosis,1,Other,1,,,1
+MMRF_2302,Baseline,-2,0,,,Osteoarthritis,1,,,1
+MMRF_2302,Baseline,-2,0,Osteomyelitis,,Osteomyelitis,1,,,1
+MMRF_2302,Baseline,-2,0,Iron deficiency anemia,,Anemia,1,,,1
+MMRF_2302,Baseline,-2,0,Shortness of breath,1,Other,1,,,1
+MMRF_2352,Baseline,-5,0,Meralgia paresthetica,1,Other,1,,,1
+MMRF_2352,Baseline,-5,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2352,Baseline,-5,0,Benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_1629,Baseline,-4,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1629,Baseline,-4,0,diverticulitis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_1432,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1432,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1432,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1432,Baseline,1,0,Atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1432,Baseline,1,0,Gout,,Gout,1,,,1
+MMRF_1460,Baseline,1,0,,,Cerebrovascular disease,1,,,1
+MMRF_1460,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1460,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1460,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1460,Baseline,1,0,,,Peripheral neuropathy,1,,,1
+MMRF_1460,Baseline,1,0,Hx of CVA,,Cerebrovascular disease,1,,,1
+MMRF_1542,Baseline,-19,0,,,Congestive heart failure,1,,,1
+MMRF_1542,Baseline,-19,0,,,Diabetes,1,,,1
+MMRF_1542,Baseline,-19,0,,,Ischemic heart disease,1,,,1
+MMRF_1646,Baseline,-5,0,,,Chronic renal failure,1,,,1
+MMRF_1646,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_1647,Baseline,-4,0,,,Chronic renal failure,1,,,1
+MMRF_1647,Baseline,-4,0,,,Congestive heart failure,1,,,1
+MMRF_1647,Baseline,-4,0,,,Liver disease,1,,,1
+MMRF_1647,Baseline,-4,0,,,Osteoarthritis,1,,,1
+MMRF_1778,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_2058,Baseline,-24,0,,,Liver disease,1,,,1
+MMRF_2058,Baseline,-24,0,,,Osteoarthritis,1,,,1
+MMRF_2058,Baseline,-24,0,,,Peripheral neuropathy,1,,,1
+MMRF_2143,Baseline,-7,0,,,Congestive heart failure,1,,,1
+MMRF_2143,Baseline,-7,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2143,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_2143,Baseline,-7,0,,,HIV / AIDS,1,,,1
+MMRF_2143,Baseline,-7,0,,,Osteoarthritis,1,,,1
+MMRF_2204,Baseline,-9,0,,,Chronic renal failure,1,,,1
+MMRF_2204,Baseline,-9,0,,,COPD,1,,,1
+MMRF_2204,Baseline,-9,0,,,Ischemic heart disease,1,,,1
+MMRF_2362,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2362,Baseline,1,0,,,Liver disease,1,,,1
+MMRF_2362,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2487,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_2581,Baseline,1,0,,,Liver disease,1,,,1
+MMRF_2581,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1504,Baseline,-7,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2055,Baseline,-7,0,,,Cerebrovascular disease,1,,,1
+MMRF_2055,Baseline,-7,0,,,Congestive heart failure,1,,,1
+MMRF_2055,Baseline,-7,0,,,Diabetes,1,,,1
+MMRF_2055,Baseline,-7,0,Chronic Kidney Disease,,Kidney Disease,1,,,1
+MMRF_2055,Baseline,-7,0,Chronic Anemia,,Anemia,1,,,1
+MMRF_2253,Baseline,-16,0,,,Cerebrovascular disease,1,,,1
+MMRF_2253,Baseline,-16,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2253,Baseline,-16,0,Hypertension,,Hypertension,1,,,1
+MMRF_1349,Baseline,-2,0,,,Chronic renal failure,1,,,1
+MMRF_1349,Baseline,-2,0,,,Diabetes,1,,,1
+MMRF_1365,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1425,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1425,Baseline,0,0,,,Ischemic heart disease,1,,,1
+MMRF_1425,Baseline,0,0,,,Renal dialysis,1,,,1
+MMRF_1451,Baseline,-5,0,,,Ischemic heart disease,1,,,1
+MMRF_1451,Baseline,-5,0,history of rectal cancer,,Cancers (various),1,,,1
+MMRF_1501,Baseline,-2,0,,,Osteoarthritis,1,,,1
+MMRF_1519,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1519,Baseline,0,0,,,Ischemic heart disease,1,,,1
+MMRF_1639,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1645,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1645,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1645,Baseline,1,0,,,Renal dialysis,1,,,1
+MMRF_1651,Baseline,1,0,,,Cerebrovascular disease,1,,,1
+MMRF_1651,Baseline,1,0,,,Congestive heart failure,1,,,1
+MMRF_1651,Baseline,1,0,,,COPD,1,,,1
+MMRF_1651,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1650,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_1650,Baseline,-6,0,,,Ischemic heart disease,1,,,1
+MMRF_1693,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1693,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_1693,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1693,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1780,Baseline,-4,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1897,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1897,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1994,Baseline,-3,0,Benign Essential Tremor,1,Other,1,,,1
+MMRF_1994,Baseline,-3,0,Glaucoma,,Glaucoma,1,,,1
+MMRF_2478,Baseline,13,0,,,Chronic renal failure,1,,,1
+MMRF_2478,Baseline,13,0,,,Diabetes,1,,,1
+MMRF_2478,Baseline,13,0,,,Renal dialysis,1,,,1
+MMRF_2505,Baseline,-6,0,,,Chronic renal failure,1,,,1
+MMRF_2505,Baseline,-6,0,,,Congestive heart failure,1,,,1
+MMRF_2504,Baseline,13,0,Systemic Inflammatory Response Syndrome,1,Other,1,,,1
+MMRF_2504,Baseline,13,0,Vitamin D deficiency,,Vitamin deficiency,1,,,1
+MMRF_2504,Baseline,13,0,History of Positive PPD,1,Other,1,,,1
+MMRF_2523,Baseline,-23,0,,,Chronic renal failure,1,,,1
+MMRF_2523,Baseline,-23,0,,,Diabetes,1,,,1
+MMRF_2523,Baseline,-23,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2523,Baseline,-23,0,Macular Hole,1,Other,1,,,1
+MMRF_2523,Baseline,-23,0,Obesity,,Obesity,1,,,1
+MMRF_2589,Baseline,-3,0,Hypertension,,Hypertension,1,,,1
+MMRF_2589,Baseline,-3,0,Gastric ulcer,,Ulcers,1,,,1
+MMRF_2589,Baseline,-3,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2589,Baseline,-3,0,Prediabetes,,Diabetes,1,,,1
+MMRF_1607,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1607,Baseline,1,0,diabetic neuropathy,,Peripheral neuropathy,1,,,1
+MMRF_1607,Baseline,1,0,chronic Kidney diseasse,,Kidney Disease,1,,,1
+MMRF_1607,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1607,Baseline,1,0,lower back pain,,Pain (various),1,,,1
+MMRF_1607,Baseline,1,0,anemia,,Anemia,1,,,1
+MMRF_1605,Baseline,-9,0,,,Diabetes,1,,,1
+MMRF_1605,Baseline,-9,0,hypertension,,Hypertension,1,,,1
+MMRF_1605,Baseline,-9,0,low back pain,,Pain (various),1,,,1
+MMRF_1939,Baseline,-9,0,,,Congestive heart failure,1,,,1
+MMRF_1939,Baseline,-9,0,,,Osteoarthritis,1,,,1
+MMRF_1939,Baseline,-9,0,Emphysema,,COPD,1,,,1
+MMRF_1939,Baseline,-9,0,gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1939,Baseline,-9,0,plasmacytoma,1,Other,1,,,1
+MMRF_2035,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_2035,Baseline,1,0,,,Congestive heart failure,1,,,1
+MMRF_2035,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2035,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2035,Baseline,1,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2035,Baseline,1,0,anemia,,Anemia,1,,,1
+MMRF_2035,Baseline,1,0,nocturia,1,Other,1,,,1
+MMRF_2035,Baseline,1,0,chronic renal impairment,,Kidney Disease,1,,,1
+MMRF_2035,Baseline,1,0,history of colon polyp,,Colon Cancer,1,,,1
+MMRF_2035,Baseline,1,0,beniign prostatic hypertrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2035,Baseline,1,0,chronic kidney disease,,Kidney Disease,1,,,1
+MMRF_2035,Baseline,1,0,ascities,1,Other,1,,,1
+MMRF_2035,Baseline,1,0,hypocalcemia,1,Other,1,,,1
+MMRF_2035,Baseline,1,0,hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_2035,Baseline,1,0,history of pneumonia,,Pneumonia,1,,,1
+MMRF_2035,Baseline,1,0,diarrhea,,Diarrhea,1,,,1
+MMRF_2035,Baseline,1,0,Urinary tract infection,1,Other,1,,,1
+MMRF_2035,Baseline,1,0,bacteremia,1,Other,1,,,1
+MMRF_2493,Baseline,-6,0,hypertension,,Hypertension,1,,,1
+MMRF_2493,Baseline,-6,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2493,Baseline,-6,0,obesity,,Obesity,1,,,1
+MMRF_2493,Baseline,-6,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2493,Baseline,-6,0,anemia,,Anemia,1,,,1
+MMRF_2493,Baseline,-6,0,history of bladder cancer  3/10/2010,,Bladder Cancer,1,,,1
+MMRF_2493,Baseline,-6,0,history of MRSA,1,Other,1,,,1
+MMRF_2493,Baseline,-6,0,History of tight nephrectomy,,Surgery (various),1,,,1
+MMRF_1470,Baseline,-2,0,"Breast Cancer 1975,",,Breast Cancer,1,,,1
+MMRF_1820,Baseline,-20,0,hypertension,,Hypertension,1,,,1
+MMRF_1820,Baseline,-20,0,seizures,1,Other,1,,,1
+MMRF_1820,Baseline,-20,0,depression,,Depression,1,,,1
+MMRF_2115,Baseline,-10,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2115,Baseline,-10,0,Hypertension,,Hypertension,1,,,1
+MMRF_2269,Baseline,-19,0,,,Osteoarthritis,1,,,1
+MMRF_2269,Baseline,-19,0,Lumbar stenosis severe at L3-L4 and L4-L5 with spondylolithesis,,Spinal Stenosis,1,,,1
+MMRF_2026,Baseline,-34,0,,,Congestive heart failure,1,,,1
+MMRF_2026,Baseline,-34,0,,,Diabetes,1,,,1
+MMRF_2026,Baseline,-34,0,,,Ischemic heart disease,1,,,1
+MMRF_2026,Baseline,-34,0,Essential Hypertension,,Hypertension,1,,,1
+MMRF_2026,Baseline,-34,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2026,Baseline,-34,0,Sensori-neural Hearing Loss,,Hearing loss / Tinnitus,1,,,1
+MMRF_2026,Baseline,-34,0,Vit D deficiency,,Vitamin deficiency,1,,,1
+MMRF_2436,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_2436,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2436,Baseline,1,0,hyperuricemia,,Gout,1,,,1
+MMRF_1486,Baseline,-23,0,,,Chronic renal failure,1,,,1
+MMRF_1486,Baseline,-23,0,,,Congestive heart failure,1,,,1
+MMRF_1486,Baseline,-23,0,mitral valve surgery,,Mitral valve dysfunction,1,,,1
+MMRF_1486,Baseline,-23,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1486,Baseline,-23,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1671,Baseline,-31,0,bone lytic lesions,1,Other,1,,,1
+MMRF_1720,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_1720,Baseline,1,0,,,Congestive heart failure,1,,,1
+MMRF_1720,Baseline,1,0,Gout,,Gout,1,,,1
+MMRF_1720,Baseline,1,0,Bilateral lower extremity edema,1,Other,1,,,1
+MMRF_1912,Baseline,-10,0,,,Acute renal failure,1,,,1
+MMRF_1782,Baseline,-26,0,,,Diabetes,1,,,1
+MMRF_1782,Baseline,-26,0,Hypertension,,Hypertension,1,,,1
+MMRF_1782,Baseline,-26,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1944,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_1944,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1944,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1944,Baseline,1,0,constipation,1,Other,1,,,1
+MMRF_2203,Baseline,-4,0,,,Diabetes,1,,,1
+MMRF_2203,Baseline,-4,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2203,Baseline,-4,0,Chronic Kidney Disease,,Kidney Disease,1,,,1
+MMRF_1580,Baseline,-3,0,,,Acute renal failure,1,,,1
+MMRF_1580,Baseline,-3,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1580,Baseline,-3,0,,,Renal dialysis,1,,,1
+MMRF_1580,Baseline,-3,0,Peptic ulcer disease with gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_2113,Baseline,-24,0,Parkinson's Disease,,Parkinson's Disease,1,,,1
+MMRF_2113,Baseline,-24,0,Chronic Kidney Disease,,Kidney Disease,1,,,1
+MMRF_2113,Baseline,-24,0,Paroxysmal Atrial Fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2113,Baseline,-24,0,Hypertension,,Hypertension,1,,,1
+MMRF_1499,Baseline,0,0,,,Osteoarthritis,1,,,1
+MMRF_1499,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1499,Baseline,0,0,,,Peripheral neuropathy,1,,,1
+MMRF_1512,Baseline,-1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1512,Baseline,-1,0,tuberculosis exposure,1,Other,1,,,1
+MMRF_1512,Baseline,-1,0,dilation and curettage,1,Other,1,,,1
+MMRF_1512,Baseline,-1,0,tubal ligation,,Surgery (various),1,,,1
+MMRF_1512,Baseline,-1,0,meningioma,,Cancers (various),1,,,1
+MMRF_1512,Baseline,-1,0,blepharospasm,1,Other,1,,,1
+MMRF_1589,Baseline,-14,0,,,Diabetes,1,,,1
+MMRF_1873,Baseline,-9,0,,,Congestive heart failure,1,,,1
+MMRF_1873,Baseline,-9,0,,,Ischemic heart disease,1,,,1
+MMRF_1873,Baseline,-9,0,,,Osteoarthritis,1,,,1
+MMRF_1873,Baseline,-9,0,Hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1873,Baseline,-9,0,hypertension,,Hypertension,1,,,1
+MMRF_1873,Baseline,-9,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1873,Baseline,-9,0,back pain,,Pain (various),1,,,1
+MMRF_1910,Baseline,23,0,,,Diabetes,1,,,1
+MMRF_1927,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1597,Baseline,1,0,,,Osteoarthritis,1,,,1
+MMRF_1597,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_1597,Baseline,1,0,Hyperuricemia,,Gout,1,,,1
+MMRF_1610,Baseline,-5,0,,,Osteoarthritis,1,,,1
+MMRF_1610,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1614,Baseline,-4,0,,,COPD,1,,,1
+MMRF_1614,Baseline,-4,0,,,Diabetes,1,,,1
+MMRF_1614,Baseline,-4,0,,,Ischemic heart disease,1,,,1
+MMRF_1614,Baseline,-4,0,,,Osteoarthritis,1,,,1
+MMRF_1614,Baseline,-4,0,,,Peripheral neuropathy,1,,,1
+MMRF_1614,Baseline,-4,0,TIA,,Transient ischemic attack,1,,,1
+MMRF_1614,Baseline,-4,0,Hypertension,,Hypertension,1,,,1
+MMRF_1614,Baseline,-4,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_1614,Baseline,-4,0,Depression,,Depression,1,,,1
+MMRF_1614,Baseline,-4,0,Spinal stenosis,,Spinal Stenosis,1,,,1
+MMRF_1614,Baseline,-4,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_1614,Baseline,-4,0,CABG,,Coronary artery disease,1,,,1
+MMRF_1614,Baseline,-4,0,percutaneous coronary intervention with stenting,1,Other,1,,,1
+MMRF_1638,Baseline,-16,0,,,Ischemic heart disease,1,,,1
+MMRF_1638,Baseline,-16,0,Hypertension,,Hypertension,1,,,1
+MMRF_1638,Baseline,-16,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1638,Baseline,-16,0,Parkinson's disease,,Parkinson's Disease,1,,,1
+MMRF_1638,Baseline,-16,0,Prior myocardial infactions x2,,Myocardial infarction,1,,,1
+MMRF_1655,Baseline,-7,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1655,Baseline,-7,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1655,Baseline,-7,0,degenerative spine disease,,Arthritis,1,,,1
+MMRF_1856,Baseline,-7,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1856,Baseline,-7,0,Degenerative disc disease,,Arthritis,1,,,1
+MMRF_1856,Baseline,-7,0,Headaches-common,,Headache,1,,,1
+MMRF_1856,Baseline,-7,0,Gout-feet,,Gout,1,,,1
+MMRF_1856,Baseline,-7,0,Chronic fatigue,,Fatigue,1,,,1
+MMRF_2170,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2170,Baseline,0,0,Pneumonia,,Pneumonia,1,,,1
+MMRF_2170,Baseline,0,0,Thrush,1,Other,1,,,1
+MMRF_2170,Baseline,0,0,anxiety/depression,,Depression,1,,,1
+MMRF_2279,Baseline,-5,0,,,Liver disease,1,,,1
+MMRF_2288,Baseline,-26,0,,,COPD,1,,,1
+MMRF_2288,Baseline,-26,0,,,Diabetes,1,,,1
+MMRF_2288,Baseline,-26,0,Hepatitis C Virus-treated unsuccessfully,,Hepatitis C,1,,,1
+MMRF_2288,Baseline,-26,0,Hypertension,,Hypertension,1,,,1
+MMRF_2288,Baseline,-26,0,Chronic back pain(spondylosis & degenerative changes),,Pain (various),1,,,1
+MMRF_1676,Baseline,-2,0,Clinical Depression,,Depression,1,,,1
+MMRF_1725,Baseline,-13,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1771,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1771,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1771,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_1771,Baseline,0,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1777,Baseline,-6,0,paroxysmal atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1777,Baseline,-6,0,Obstructive sleep apena,,Sleep apnea,1,,,1
+MMRF_1777,Baseline,-6,0,Carpal tunnel syndrome,,Carpal Tunnel Syndrome,1,,,1
+MMRF_1785,Baseline,-5,0,Rheumatic heart disease,1,Other,1,,,1
+MMRF_1785,Baseline,-5,0,Diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_1785,Baseline,-5,0,Asthma,,Asthma,1,,,1
+MMRF_1785,Baseline,-5,0,Hypertension,,Hypertension,1,,,1
+MMRF_1792,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1805,Baseline,-52,0,Sacral ulcer,1,Other,1,,,1
+MMRF_1805,Baseline,-52,0,hemmorrhage,1,Other,1,,,1
+MMRF_1805,Baseline,-52,0,paraplegia secondary to spinal cord compression and plasmacytoma,1,Other,1,,,1
+MMRF_1845,Baseline,-13,0,,,Diabetes,1,,,1
+MMRF_1845,Baseline,-13,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_1928,Baseline,-42,0,Schwannoma,1,Other,1,,,1
+MMRF_1928,Baseline,-42,0,Arthritis,,Arthritis,1,,,1
+MMRF_1960,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1960,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1960,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_1960,Baseline,0,0,Dislipidemia,,Dyslipidemia,1,,,1
+MMRF_2174,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_2174,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2174,Baseline,1,0,,,Renal dialysis,1,,,1
+MMRF_2174,Baseline,1,0,Benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2174,Baseline,1,0,diarrhea,,Diarrhea,1,,,1
+MMRF_2174,Baseline,1,0,back pain related to herniated disk,,Pain (various),1,,,1
+MMRF_2428,Baseline,-7,0,hypertension,,Hypertension,1,,,1
+MMRF_2428,Baseline,-7,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2428,Baseline,-7,0,HSV-2,1,Other,1,,,1
+MMRF_2428,Baseline,-7,0,mild obstructive sleep apnea,,Sleep apnea,1,,,1
+MMRF_2428,Baseline,-7,0,bilateral meniscal knee tears,1,Other,1,,,1
+MMRF_2428,Baseline,-7,0,plantar fasciitis,1,Other,1,,,1
+MMRF_2428,Baseline,-7,0,left carpal tunnel release,,Carpal Tunnel Syndrome,1,,,1
+MMRF_2428,Baseline,-7,0,tonsillectomy,,Surgery (various),1,,,1
+MMRF_1555,Baseline,-27,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1555,Baseline,-27,0,"Cataracts, bilateral",,Cataracts,1,,,1
+MMRF_1555,Baseline,-27,0,Chronic Back pain,,Pain (various),1,,,1
+MMRF_1555,Baseline,-27,0,"Hypertension, not currently on medication",,Hypertension,1,,,1
+MMRF_1564,Baseline,-12,0,"Generalized pain- primarily shoulder blades, bilaterally.",,Pain (various),1,,,1
+MMRF_1569,Baseline,-20,0,Hypertension,,Hypertension,1,,,1
+MMRF_1569,Baseline,-20,0,Sensorineural Hearing Loss,,Hearing loss / Tinnitus,1,,,1
+MMRF_1569,Baseline,-20,0,Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1593,Baseline,-3,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_1593,Baseline,-3,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1593,Baseline,-3,0,history of chronic berylliosis,1,Other,1,,,1
+MMRF_1618,Baseline,-16,0,Anemia,,Anemia,1,,,1
+MMRF_1717,Baseline,-16,0,Hypertension,,Hypertension,1,,,1
+MMRF_1717,Baseline,-16,0,Hypertriglyceridemia,1,Other,1,,,1
+MMRF_1717,Baseline,-16,0,Migraines,,Headache,1,,,1
+MMRF_1717,Baseline,-16,0,peripheral vascular disease,,Peripheral vascular disease,1,,,1
+MMRF_1726,Baseline,-2,0,,,COPD,1,,,1
+MMRF_1726,Baseline,-2,0,,,Diabetes,1,,,1
+MMRF_1726,Baseline,-2,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1726,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_1726,Baseline,-2,0,CAD s/p CABG,,Coronary artery disease,1,,,1
+MMRF_1726,Baseline,-2,0,compression fractures T11-L1,,Fractures,1,,,1
+MMRF_1763,Baseline,1,0,Vitamin D deficiency,,Vitamin deficiency,1,,,1
+MMRF_1847,Baseline,-12,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1847,Baseline,-12,0,allergic rhinitis,,Allergies,1,,,1
+MMRF_1888,Baseline,-58,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1915,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2041,Baseline,-39,0,Fatigue,,Fatigue,1,,,1
+MMRF_2041,Baseline,-39,0,Blurry vision,1,Other,1,,,1
+MMRF_2041,Baseline,-39,0,Anemia,,Anemia,1,,,1
+MMRF_2041,Baseline,-39,0,Leukopenia,1,Other,1,,,1
+MMRF_2041,Baseline,-39,0,Headaches,,Headache,1,,,1
+MMRF_2041,Baseline,-39,0,Pain,,Pain (various),1,,,1
+MMRF_2064,Baseline,1,0,Neuropathic pain related to left thoracotomy,,Pain (various),1,,,1
+MMRF_2064,Baseline,1,0,anemia of unknown etiology,,Anemia,1,,,1
+MMRF_2409,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2409,Baseline,1,0,Mass on Neck,1,Other,1,,,1
+MMRF_2409,Baseline,1,0,"Knot on right forehead, connets w recent trauma",1,Other,1,,,1
+MMRF_2409,Baseline,1,0,L. Hymerus pain,,Pain (various),1,,,1
+MMRF_2409,Baseline,1,0,Anemia,,Anemia,1,,,1
+MMRF_2409,Baseline,1,0,Diffuse degenerative disc disease,,Arthritis,1,,,1
+MMRF_2409,Baseline,1,0,grade 2 spondylolisthesis at L4-5,1,Other,1,,,1
+MMRF_2585,Baseline,11,0,Ulcerative Colitis,,Colitis,1,,,1
+MMRF_2585,Baseline,11,0,chronic inflammatory demyelinating polyneuritis,1,Other,1,,,1
+MMRF_1750,Baseline,-22,0,,,Osteoarthritis,1,,,1
+MMRF_1750,Baseline,-22,0,,,Peripheral neuropathy,1,,,1
+MMRF_1750,Baseline,-22,0,Gastric ulcer with hemorrhage,,Ulcers,1,,,1
+MMRF_1750,Baseline,-22,0,Anemia,,Anemia,1,,,1
+MMRF_1750,Baseline,-22,0,Fatigue,,Fatigue,1,,,1
+MMRF_1750,Baseline,-22,0,Borderline Diabetes Mellitus,,Diabetes,1,,,1
+MMRF_1750,Baseline,-22,0,Stomach pain,,Pain (various),1,,,1
+MMRF_1750,Baseline,-22,0,Chest pressure,1,Other,1,,,1
+MMRF_1750,Baseline,-22,0,Low back and hip pain,,Pain (various),1,,,1
+MMRF_1750,Baseline,-22,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1750,Baseline,-22,0,memory change,1,Other,1,,,1
+MMRF_1750,Baseline,-22,0,History of reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1750,Baseline,-22,0,History of chronic leukopenia,1,Other,1,,,1
+MMRF_1750,Baseline,-22,0,Degenerative joint disease,,Arthritis,1,,,1
+MMRF_1750,Baseline,-22,0,Hyperhidrosis,1,Other,1,,,1
+MMRF_1750,Baseline,-22,0,Tubular adenoma (colon),,Colon Cancer,1,,,1
+MMRF_1750,Baseline,-22,0,Lightheadness,1,Other,1,,,1
+MMRF_2019,Baseline,-11,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2019,Baseline,-11,0,Anxiety,,Anxiety,1,,,1
+MMRF_2167,Baseline,0,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2167,Baseline,0,0,Renal Insufficiency,,Kidney Disease,1,,,1
+MMRF_2167,Baseline,0,0,Severe Back pain,,Pain (various),1,,,1
+MMRF_2167,Baseline,0,0,Hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1456,Baseline,-12,0,,,Diabetes,1,,,1
+MMRF_1535,Baseline,-23,0,,,Diabetes,1,,,1
+MMRF_1535,Baseline,-23,0,Hypertension,,Hypertension,1,,,1
+MMRF_1535,Baseline,-23,0,Osteomyelitis,,Osteomyelitis,1,,,1
+MMRF_1535,Baseline,-23,0,Peripheral vascular disease,,Peripheral vascular disease,1,,,1
+MMRF_1535,Baseline,-23,0,Coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2112,Baseline,-57,0,,,COPD,1,,,1
+MMRF_2112,Baseline,-57,0,Coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2112,Baseline,-57,0,pacemaker with AICD,1,Other,1,,,1
+MMRF_2112,Baseline,-57,0,hypertension,,Hypertension,1,,,1
+MMRF_2379,Baseline,-20,0,,,Cerebrovascular disease,1,,,1
+MMRF_2379,Baseline,-20,0,,,Chronic renal failure,1,,,1
+MMRF_2379,Baseline,-20,0,Hypertension,,Hypertension,1,,,1
+MMRF_2379,Baseline,-20,0,anemia,,Anemia,1,,,1
+MMRF_2379,Baseline,-20,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2379,Baseline,-20,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2379,Baseline,-20,0,Benign Prostectic Hypothrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2379,Baseline,-20,0,diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2379,Baseline,-20,0,nephrolitiasis,,Nephrolithiasis,1,,,1
+MMRF_2379,Baseline,-20,0,atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_1882,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1882,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1882,Baseline,1,0,chronic kidney disease,,Kidney Disease,1,,,1
+MMRF_2015,Baseline,8,0,,,Osteoarthritis,1,,,1
+MMRF_2187,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_2078,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2078,Baseline,1,0,,,Liver disease,1,,,1
+MMRF_1644,Baseline,-20,0,,,Chronic renal failure,1,,,1
+MMRF_1644,Baseline,-20,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_1644,Baseline,-20,0,,,Diabetes,1,,,1
+MMRF_1644,Baseline,-20,0,Anemia,,Anemia,1,,,1
+MMRF_1644,Baseline,-20,0,Pericardial Effusion s/p window,1,Other,1,,,1
+MMRF_1644,Baseline,-20,0,CVA with LLE residual weakness,,Cerebrovascular disease,1,,,1
+MMRF_1644,Baseline,-20,0,A-Fib,,Atrial Fibrillation,1,,,1
+MMRF_2118,Baseline,1,0,Arthritis,,Arthritis,1,,,1
+MMRF_2118,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2118,Baseline,1,0,Renal insufficiency,,Kidney Disease,1,,,1
+MMRF_2118,Baseline,1,0,Gout,,Gout,1,,,1
+MMRF_2138,Baseline,-9,0,Rheumatoid Arthritis,,Arthritis,1,,,1
+MMRF_2138,Baseline,-9,0,Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_1706,Baseline,0,0,,,Osteoarthritis,1,,,1
+MMRF_1881,Baseline,-32,0,,,Diabetes,1,,,1
+MMRF_1881,Baseline,-32,0,Irritable Bowel Syndrome,,Colitis,1,,,1
+MMRF_1881,Baseline,-32,0,Depression,,Depression,1,,,1
+MMRF_1972,Baseline,-5,0,,,Cerebrovascular disease,1,,,1
+MMRF_1972,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2007,Baseline,-6,0,,,Osteoarthritis,1,,,1
+MMRF_1829,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1829,Baseline,0,0,,,Renal dialysis,1,,,1
+MMRF_1829,Baseline,0,0,Hyperkalemia,1,Other,1,,,1
+MMRF_1829,Baseline,0,0,Anemia,,Anemia,1,,,1
+MMRF_1829,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_1829,Baseline,0,0,High anion gap metabolic acidosis,1,Other,1,,,1
+MMRF_2012,Baseline,-4,0,"Sickle cell disease, type SS",1,Other,1,,,1
+MMRF_2012,Baseline,-4,0,Hepatitis C,,Hepatitis C,1,,,1
+MMRF_2106,Baseline,-10,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2106,Baseline,-10,0,Hypertension,,Hypertension,1,,,1
+MMRF_2125,Baseline,-29,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2256,Baseline,1,0,Coronary Artery Disease,,Coronary artery disease,1,,,1
+MMRF_2259,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2525,Baseline,0,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2525,Baseline,0,0,Biopolar I disorder,,Bipolar Disorder,1,,,1
+MMRF_2525,Baseline,0,0,Schizophrenia,1,Other,1,,,1
+MMRF_1753,Baseline,-5,0,,,Congestive heart failure,1,,,1
+MMRF_1753,Baseline,-5,0,Systemic amyloid with cardiac involvement,1,Other,1,,,1
+MMRF_1793,Baseline,-20,0,,,Cerebrovascular disease,1,,,1
+MMRF_1816,Baseline,-2,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1816,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_1842,Baseline,-4,0,,,Chronic renal failure,1,,,1
+MMRF_1842,Baseline,-4,0,,,HIV / AIDS,1,,,1
+MMRF_1842,Baseline,-4,0,Hypertension,,Hypertension,1,,,1
+MMRF_1858,Baseline,-2,0,,,Chronic renal failure,1,,,1
+MMRF_1858,Baseline,-2,0,Viral Hepatitis C,,Hepatitis C,1,,,1
+MMRF_1858,Baseline,-2,0,Hypertension,,Hypertension,1,,,1
+MMRF_1886,Baseline,-3,0,,,Acute renal failure,1,,,1
+MMRF_1886,Baseline,-3,0,,,Osteoarthritis,1,,,1
+MMRF_2074,Baseline,-25,0,Heriditary Hemochromatosis,1,Other,1,,,1
+MMRF_2093,Baseline,-11,0,,,Diabetes,1,,,1
+MMRF_2093,Baseline,-11,0,,,Osteoarthritis,1,,,1
+MMRF_2266,Baseline,1,0,,,COPD,1,,,1
+MMRF_2266,Baseline,1,0,Atrial fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2306,Baseline,-22,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2306,Baseline,-22,0,hypertension,,Hypertension,1,,,1
+MMRF_2306,Baseline,-22,0,metabolic syndrome x,,Diabetes,1,,,1
+MMRF_2306,Baseline,-22,0,obesity,,Obesity,1,,,1
+MMRF_2306,Baseline,-22,0,obstructive sleep apnea,,Sleep apnea,1,,,1
+MMRF_2497,Baseline,-28,0,,,COPD,1,,,1
+MMRF_2497,Baseline,-28,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2501,Baseline,-6,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2501,Baseline,-6,0,HTN,,Hypertension,1,,,1
+MMRF_2557,Baseline,-10,0,,,Diabetes,1,,,1
+MMRF_2557,Baseline,-10,0,Hypertension,,Hypertension,1,,,1
+MMRF_2557,Baseline,-10,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2557,Baseline,-10,0,Mastocytosis,1,Other,1,,,1
+MMRF_2557,Baseline,-10,0,Obesity,,Obesity,1,,,1
+MMRF_2087,Baseline,18,0,,,COPD,1,,,1
+MMRF_2087,Baseline,18,0,,,Diabetes,1,,,1
+MMRF_2087,Baseline,18,0,Chronic Kidney Disease,,Kidney Disease,1,,,1
+MMRF_2087,Baseline,18,0,Hypertension,,Hypertension,1,,,1
+MMRF_2087,Baseline,18,0,Peripheral Vascular Disease,,Peripheral vascular disease,1,,,1
+MMRF_2141,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_2153,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_2228,Baseline,1,0,,,Congestive heart failure,1,,,1
+MMRF_2228,Baseline,1,0,,,COPD,1,,,1
+MMRF_2228,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2228,Baseline,1,0,,,Peripheral neuropathy,1,,,1
+MMRF_2228,Baseline,1,0,Pulmonary Hypertension,,Hypertension,1,,,1
+MMRF_2301,Baseline,-113,0,,,Chronic renal failure,1,,,1
+MMRF_2301,Baseline,-113,0,,,Ischemic heart disease,1,,,1
+MMRF_2301,Baseline,-113,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1766,Baseline,-3,0,,,Diabetes,1,,,1
+MMRF_1766,Baseline,-3,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1766,Baseline,-3,0,Hypertension,,Hypertension,1,,,1
+MMRF_1824,Baseline,-20,0,Anemia,,Anemia,1,,,1
+MMRF_1824,Baseline,-20,0,Gastroesophageal reflux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_1824,Baseline,-20,0,Vitamin D deficiency disease,,Vitamin deficiency,1,,,1
+MMRF_1824,Baseline,-20,0,Osteoporosis,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1824,Baseline,-20,0,Thyroid nodule,1,Other,1,,,1
+MMRF_1879,Baseline,-13,0,"prostate cancer, October 1996",,Prostate Cancer,1,,,1
+MMRF_1879,Baseline,-13,0,hypertension,,Hypertension,1,,,1
+MMRF_1879,Baseline,-13,0,CVA,,Cerebrovascular disease,1,,,1
+MMRF_1879,Baseline,-13,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2006,Baseline,-10,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2006,Baseline,-10,0,cervical nerve root impingement,1,Other,1,,,1
+MMRF_2006,Baseline,-10,0,chronic back pain,,Pain (various),1,,,1
+MMRF_2006,Baseline,-10,0,bursitis of right shoulder,,Bursitis,1,,,1
+MMRF_2006,Baseline,-10,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2006,Baseline,-10,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2006,Baseline,-10,0,obstructive sleep apnea,,Sleep apnea,1,,,1
+MMRF_2006,Baseline,-10,0,glaucoma,,Glaucoma,1,,,1
+MMRF_2006,Baseline,-10,0,shingles,,Shingles,1,,,1
+MMRF_2006,Baseline,-10,0,hypertension,,Hypertension,1,,,1
+MMRF_2047,Baseline,-7,0,back pain,,Pain (various),1,,,1
+MMRF_2047,Baseline,-7,0,neck pain,,Pain (various),1,,,1
+MMRF_2047,Baseline,-7,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2047,Baseline,-7,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2047,Baseline,-7,0,thyroid disease,1,Other,1,,,1
+MMRF_2047,Baseline,-7,0,anxiety,,Anxiety,1,,,1
+MMRF_2047,Baseline,-7,0,insomnia,,Insomnia,1,,,1
+MMRF_2047,Baseline,-7,0,chest pain,,Pain (various),1,,,1
+MMRF_2047,Baseline,-7,0,vitamin D deficiency,,Vitamin deficiency,1,,,1
+MMRF_2116,Baseline,-4,0,chronic low back pain,,Pain (various),1,,,1
+MMRF_2116,Baseline,-4,0,bilateral leg pain,,Pain (various),1,,,1
+MMRF_2201,Baseline,-7,0,,,COPD,1,,,1
+MMRF_2201,Baseline,-7,0,hypertension,,Hypertension,1,,,1
+MMRF_2201,Baseline,-7,0,arrhythmia,1,Other,1,,,1
+MMRF_2201,Baseline,-7,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2201,Baseline,-7,0,tobacco abuse,1,Other,1,,,1
+MMRF_2201,Baseline,-7,0,GI bleed,1,Other,1,,,1
+MMRF_2201,Baseline,-7,0,benign prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2201,Baseline,-7,0,transient ischemic attack,,Transient ischemic attack,1,,,1
+MMRF_2201,Baseline,-7,0,fatty liver,1,Other,1,,,1
+MMRF_2232,Baseline,-18,0,hypertension,,Hypertension,1,,,1
+MMRF_2232,Baseline,-18,0,fibroids,1,Other,1,,,1
+MMRF_2232,Baseline,-18,0,dermatitis,1,Other,1,,,1
+MMRF_2425,Baseline,-11,0,hypertension,,Hypertension,1,,,1
+MMRF_2485,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_2485,Baseline,0,0,thoracic compression fracture,,Fractures,1,,,1
+MMRF_2485,Baseline,0,0,lower back pain,,Pain (various),1,,,1
+MMRF_2485,Baseline,0,0,thoracic back pain,,Pain (various),1,,,1
+MMRF_2485,Baseline,0,0,lumbar compression fracture,,Fractures,1,,,1
+MMRF_2566,Baseline,-11,0,heart disease,,Coronary artery disease,1,,,1
+MMRF_2566,Baseline,-11,0,sinusitis,,Sinusitis,1,,,1
+MMRF_2590,Baseline,-13,0,,,Diabetes,1,,,1
+MMRF_2590,Baseline,-13,0,hyperlipidemia LDL goal < 70,,Hyperlipidemia,1,,,1
+MMRF_2590,Baseline,-13,0,hypertension,,Hypertension,1,,,1
+MMRF_2590,Baseline,-13,0,gastroesophageal relux disease,,Gastroesophageal reflux disease,1,,,1
+MMRF_2590,Baseline,-13,0,coronary artery disease,,Coronary artery disease,1,,,1
+MMRF_2590,Baseline,-13,0,peripheral artery disease,,Peripheral vascular disease,1,,,1
+MMRF_2590,Baseline,-13,0,claudication in peripheral vascular disease,1,Other,1,,,1
+MMRF_2590,Baseline,-13,0,"pain, right leg",,Pain (various),1,,,1
+MMRF_2590,Baseline,-13,0,right lower extremity rest pain (CLI),,Pain (various),1,,,1
+MMRF_2147,Baseline,-62,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2147,Baseline,-62,0,Hypertension,,Hypertension,1,,,1
+MMRF_2147,Baseline,-62,0,sleep apnea,,Sleep apnea,1,,,1
+MMRF_2147,Baseline,-62,0,GERD,,Gastroesophageal reflux disease,1,,,1
+MMRF_2419,Baseline,-10,0,,,Acute renal failure,1,,,1
+MMRF_2419,Baseline,-10,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2419,Baseline,-10,0,Kidney stones,,Nephrolithiasis,1,,,1
+MMRF_2419,Baseline,-10,0,Glaucoma,,Glaucoma,1,,,1
+MMRF_2438,Baseline,-51,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2438,Baseline,-51,0,Carpal tunnel release,,Carpal Tunnel Syndrome,1,,,1
+MMRF_2438,Baseline,-51,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2517,Baseline,-19,0,Hypertension,,Hypertension,1,,,1
+MMRF_2517,Baseline,-19,0,G.E.R.D,,Gastroesophageal reflux disease,1,,,1
+MMRF_2517,Baseline,-19,0,Spontaneous pneumothroax,1,Other,1,,,1
+MMRF_2573,Baseline,-9,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2573,Baseline,-9,0,Hypertension,,Hypertension,1,,,1
+MMRF_2573,Baseline,-9,0,degenerative disk diease,,Arthritis,1,,,1
+MMRF_2573,Baseline,-9,0,dyslipidema,,Hyperlipidemia,1,,,1
+MMRF_2573,Baseline,-9,0,hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2573,Baseline,-9,0,prostatic hypertrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2608,Baseline,0,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2608,Baseline,0,0,hyperparathyroidism secondary to viamin D deficiency,,Vitamin deficiency,1,,,1
+MMRF_2608,Baseline,0,0,hypertension,,Hypertension,1,,,1
+MMRF_2608,Baseline,0,0,hypothryoidism,,Hypothyroidism,1,,,1
+MMRF_2608,Baseline,0,0,sleep apnsea,,Sleep apnea,1,,,1
+MMRF_2608,Baseline,0,0,obesity,,Obesity,1,,,1
+MMRF_2223,Baseline,-13,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2223,Baseline,-13,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2223,Baseline,-13,0,Diverticulitis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2223,Baseline,-13,0,Murmur,1,Other,1,,,1
+MMRF_2568,Baseline,-9,0,Atrial Fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2196,Baseline,-45,0,,,Diabetes,1,,,1
+MMRF_2196,Baseline,-45,0,Chronic Kidney Disease Stage II,,Kidney Disease,1,,,1
+MMRF_2196,Baseline,-45,0,Bipolar II Mood Disorder,,Bipolar Disorder,1,,,1
+MMRF_2062,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_2171,Baseline,-28,0,,,COPD,1,,,1
+MMRF_2171,Baseline,-28,0,,,Diabetes,1,,,1
+MMRF_2171,Baseline,-28,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2171,Baseline,-28,0,hypertension,,Hypertension,1,,,1
+MMRF_2286,Baseline,-48,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2286,Baseline,-48,0,,,Peripheral neuropathy,1,,,1
+MMRF_2286,Baseline,-48,0,Rheumatoid arthritis,,Arthritis,1,,,1
+MMRF_2507,Baseline,-4,0,,,COPD,1,,,1
+MMRF_2507,Baseline,-4,0,,,Liver disease,1,,,1
+MMRF_2507,Baseline,-4,0,,,Osteoarthritis,1,,,1
+MMRF_2507,Baseline,-4,0,,,Peripheral neuropathy,1,,,1
+MMRF_2507,Baseline,-4,0,hypertension,,Hypertension,1,,,1
+MMRF_2126,Baseline,-32,0,,,Diabetes,1,,,1
+MMRF_2126,Baseline,-32,0,,,Ischemic heart disease,1,,,1
+MMRF_2126,Baseline,-32,0,,,Liver disease,1,,,1
+MMRF_2126,Baseline,-32,0,Benign Hypertension,,Hypertension,1,,,1
+MMRF_2126,Baseline,-32,0,Atrial Fibrillation,,Atrial Fibrillation,1,,,1
+MMRF_2126,Baseline,-32,0,Esophageal Reflux,,Gastroesophageal reflux disease,1,,,1
+MMRF_2114,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_2114,Baseline,-6,0,Helicobacter pylori (H. pylori) infection,1,Other,1,,,1
+MMRF_2150,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_2150,Baseline,-6,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1642,Baseline,-18,0,,,Chronic renal failure,1,,,1
+MMRF_1642,Baseline,-18,0,,,COPD,1,,,1
+MMRF_1642,Baseline,-18,0,,,Diabetes,1,,,1
+MMRF_1642,Baseline,-18,0,High blood presure,,Hypertension,1,,,1
+MMRF_1642,Baseline,-18,0,Dislipemia,,Dyslipidemia,1,,,1
+MMRF_1642,Baseline,-18,0,Hyperuricemia,,Gout,1,,,1
+MMRF_1661,Baseline,-30,0,restrictive cardiomyopathy,1,Other,1,,,1
+MMRF_1682,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1682,Baseline,0,0,hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1682,Baseline,0,0,urticaria,1,Other,1,,,1
+MMRF_1682,Baseline,0,0,tramadol intolerance,,Allergies,1,,,1
+MMRF_1682,Baseline,0,0,cancer pain,,Pain (various),1,,,1
+MMRF_1682,Baseline,0,0,hypophosphatemia,1,Other,1,,,1
+MMRF_1705,Baseline,-119,0,,,COPD,1,,,1
+MMRF_1705,Baseline,-119,0,hypertension,,Hypertension,1,,,1
+MMRF_1705,Baseline,-119,0,dyslipemia,,Dyslipidemia,1,,,1
+MMRF_1705,Baseline,-119,0,hiperuricemia,,Gout,1,,,1
+MMRF_1862,Baseline,-13,0,dyslipemia,,Dyslipidemia,1,,,1
+MMRF_1862,Baseline,-13,0,hysterectomy,,Surgery (various),1,,,1
+MMRF_1862,Baseline,-13,0,double adnexectomy,,Surgery (various),1,,,1
+MMRF_1862,Baseline,-13,0,hemithyroidectomy,,Surgery (various),1,,,1
+MMRF_1862,Baseline,-13,0,depression,,Depression,1,,,1
+MMRF_1969,Baseline,2,0,,,Acute renal failure,1,,,1
+MMRF_1969,Baseline,2,0,,,Diabetes,1,,,1
+MMRF_1969,Baseline,2,0,,,Renal dialysis,1,,,1
+MMRF_1969,Baseline,2,0,dyslipemia,,Dyslipidemia,1,,,1
+MMRF_1969,Baseline,2,0,anemia,,Anemia,1,,,1
+MMRF_1969,Baseline,2,0,bilateral pleural effusion,1,Other,1,,,1
+MMRF_1969,Baseline,2,0,bone lesions,1,Other,1,,,1
+MMRF_1969,Baseline,2,0,mediastinal lymphadenopathy,1,Other,1,,,1
+MMRF_2024,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_2024,Baseline,1,0,,,Liver disease,1,,,1
+MMRF_2024,Baseline,1,0,anemia,,Anemia,1,,,1
+MMRF_2024,Baseline,1,0,osteopenia,1,Other,1,,,1
+MMRF_2039,Baseline,1,0,,,Chronic renal failure,1,,,1
+MMRF_2039,Baseline,1,0,,,Renal dialysis,1,,,1
+MMRF_2039,Baseline,1,0,ANEMIA,,Anemia,1,,,1
+MMRF_2039,Baseline,1,0,HYPERPHOSPHATEMIA,1,Other,1,,,1
+MMRF_2039,Baseline,1,0,Benign Prostate Hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2039,Baseline,1,0,obstructive sleep apnea syndrome,,Sleep apnea,1,,,1
+MMRF_2039,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2515,Baseline,-13,0,,,Diabetes,1,,,1
+MMRF_2515,Baseline,-13,0,Leukocytoclastic vasculitis,1,Other,1,,,1
+MMRF_2515,Baseline,-13,0,hypertension,,Hypertension,1,,,1
+MMRF_2515,Baseline,-13,0,hypothyroidism,,Hypothyroidism,1,,,1
+MMRF_2515,Baseline,-13,0,paget disease,1,Other,1,,,1
+MMRF_2515,Baseline,-13,0,acrocianosis,1,Other,1,,,1
+MMRF_2543,Baseline,-83,0,cutis laxa,1,Other,1,,,1
+MMRF_2586,Baseline,-2,0,dyslipemia,,Dyslipidemia,1,,,1
+MMRF_1908,Baseline,-4,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1908,Baseline,-4,0,Focal epilepsy,1,Other,1,,,1
+MMRF_2013,Baseline,-6,0,Chronic Bronchitis,,COPD,1,,,1
+MMRF_2185,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2185,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2185,Baseline,1,0,Obesity,,Obesity,1,,,1
+MMRF_2185,Baseline,1,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2185,Baseline,1,0,Chiari malformation,1,Other,1,,,1
+MMRF_2185,Baseline,1,0,Obstructive sleep apnea,,Sleep apnea,1,,,1
+MMRF_1790,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1790,Baseline,1,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_1790,Baseline,1,0,Arthrosis,,Arthritis,1,,,1
+MMRF_2225,Baseline,1,0,High blood pressure,,Hypertension,1,,,1
+MMRF_2225,Baseline,1,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2225,Baseline,1,0,Thyroidectomy 2005,,Surgery (various),1,,,1
+MMRF_2225,Baseline,1,0,Smoker,1,Other,1,,,1
+MMRF_2225,Baseline,1,0,Trochanteric bursitis,,Bursitis,1,,,1
+MMRF_2307,Baseline,-1,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2307,Baseline,-1,0,Chronic bronchitis,,COPD,1,,,1
+MMRF_2465,Baseline,1,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2465,Baseline,1,0,Depression,,Depression,1,,,1
+MMRF_2465,Baseline,1,0,Anxiety,,Anxiety,1,,,1
+MMRF_2465,Baseline,1,0,Transaminitis,1,Other,1,,,1
+MMRF_2556,Baseline,-10,0,,,Diabetes,1,,,1
+MMRF_2556,Baseline,-10,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2556,Baseline,-10,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2556,Baseline,-10,0,High blood pressure,,Hypertension,1,,,1
+MMRF_2556,Baseline,-10,0,Malignant melanoma of soft parts (2003),,Skin Cancer,1,,,1
+MMRF_2567,Baseline,-6,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1727,Baseline,-13,0,left inguinal hernia,1,Other,1,,,1
+MMRF_1916,Baseline,-27,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1916,Baseline,-27,0,MODERATE MITRAL REGURGITATION,,Mitral valve dysfunction,1,,,1
+MMRF_1916,Baseline,-27,0,MODERATE AORTIC INSUFFICIENCY,1,Other,1,,,1
+MMRF_1916,Baseline,-27,0,MILD TRICUSPID INSUFFICIENCY,1,Other,1,,,1
+MMRF_1916,Baseline,-27,0,RHEUMATIC POLYMYALGIA,1,Other,1,,,1
+MMRF_1971,Baseline,-23,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1971,Baseline,-23,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2017,Baseline,-14,0,HYPERTENSION,,Hypertension,1,,,1
+MMRF_2017,Baseline,-14,0,HYPERCHOLESTEROLEMIA,,Hypercholesterolemia,1,,,1
+MMRF_2017,Baseline,-14,0,ESSENTIAL TREMOR,1,Other,1,,,1
+MMRF_2068,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_2068,Baseline,1,0,HIGH BLOOD PRESSURE,,Hypertension,1,,,1
+MMRF_2068,Baseline,1,0,Iron deficiency anemia,,Anemia,1,,,1
+MMRF_2089,Baseline,-8,0,Hyperlipidemia,,Hyperlipidemia,1,,,1
+MMRF_2102,Baseline,-17,0,CHRONIC DIARRHEA,,Diarrhea,1,,,1
+MMRF_2142,Baseline,-61,0,,,Ischemic heart disease,1,,,1
+MMRF_2142,Baseline,-61,0,HIGH BLOOD PRESSURE,,Hypertension,1,,,1
+MMRF_2142,Baseline,-61,0,CHRONIC OBSTRUCTYVE PULMONARY DISEASE,,COPD,1,,,1
+MMRF_2142,Baseline,-61,0,BENIGN HYPERPLASIA OF PROSTATE,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2142,Baseline,-61,0,LEAD POISONING,1,Other,1,,,1
+MMRF_2335,Baseline,-6,0,,,Diabetes,1,,,1
+MMRF_2335,Baseline,-6,0,,,Ischemic heart disease,1,,,1
+MMRF_2335,Baseline,-6,0,HIGH BLOOD PRESSURE,,Hypertension,1,,,1
+MMRF_2468,Baseline,-19,0,HIPERCHOLESTEROLEMIA,,Hypercholesterolemia,1,,,1
+MMRF_1654,Baseline,0,0,,,Acute renal failure,1,,,1
+MMRF_1654,Baseline,0,0,,,Renal dialysis,1,,,1
+MMRF_1654,Baseline,0,0,Acute renal failure for MM,,Acute renal failure,1,,,1
+MMRF_1678,Baseline,-8,0,,,Cerebrovascular disease,1,,,1
+MMRF_1678,Baseline,-8,0,,,COPD,1,,,1
+MMRF_1678,Baseline,-8,0,,,Diabetes,1,,,1
+MMRF_1738,Baseline,0,0,,,Diabetes,1,,,1
+MMRF_1738,Baseline,0,0,,,Ischemic heart disease,1,,,1
+MMRF_2224,Baseline,-3,0,acute radiculopathy L4 and L5,,Pain (various),1,,,1
+MMRF_2224,Baseline,-3,0,"lytic lesions T10, T12 and L3",1,Other,1,,,1
+MMRF_2368,Baseline,-17,0,dyspepsia,1,Other,1,,,1
+MMRF_2368,Baseline,-17,0,irritable bowel syndrome,,Colitis,1,,,1
+MMRF_2368,Baseline,-17,0,colonic diverticulosis,,Diverticulosis / Diverticulitis,1,,,1
+MMRF_2368,Baseline,-17,0,hemorrhoids,1,Other,1,,,1
+MMRF_2368,Baseline,-17,0,Lipoma in right forearm,1,Other,1,,,1
+MMRF_2050,Baseline,-5,0,,,Congestive heart failure,1,,,1
+MMRF_2050,Baseline,-5,0,,,Osteoarthritis,1,,,1
+MMRF_2050,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2050,Baseline,-5,0,atrial fibrilation,,Atrial Fibrillation,1,,,1
+MMRF_2197,Baseline,-5,0,,,Ischemic heart disease,1,,,1
+MMRF_2197,Baseline,-5,0,High arterial tension controled,1,Other,1,,,1
+MMRF_2200,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2200,Baseline,1,0,High blood pressure,,Hypertension,1,,,1
+MMRF_2200,Baseline,1,0,DYSLIPIDEMIA,,Dyslipidemia,1,,,1
+MMRF_2336,Baseline,-18,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2336,Baseline,-18,0,atrophic gastritis,,Gastritis,1,,,1
+MMRF_2336,Baseline,-18,0,High Blood Pressure,,Hypertension,1,,,1
+MMRF_2365,Baseline,-15,0,High Blood Pressure,,Hypertension,1,,,1
+MMRF_2365,Baseline,-15,0,Dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2365,Baseline,-15,0,Partial Nephrectomy,,Surgery (various),1,,,1
+MMRF_2519,Baseline,-17,0,,,COPD,1,,,1
+MMRF_2519,Baseline,-17,0,,,Osteoarthritis,1,,,1
+MMRF_2578,Baseline,-5,0,,,Ischemic heart disease,1,,,1
+MMRF_2578,Baseline,-5,0,High Blood Presure,,Hypertension,1,,,1
+MMRF_2578,Baseline,-5,0,Dislipidemia,,Dyslipidemia,1,,,1
+MMRF_2578,Baseline,-5,0,Vertigo,1,Other,1,,,1
+MMRF_2602,Baseline,1,0,,,Acute renal failure,1,,,1
+MMRF_2602,Baseline,1,0,,,Renal dialysis,1,,,1
+MMRF_2602,Baseline,1,0,High blood presure,,Hypertension,1,,,1
+MMRF_2602,Baseline,1,0,erosive duodenitis,,Gastritis,1,,,1
+MMRF_2606,Baseline,-2,0,HIGH BLOOD PRESURE,,Hypertension,1,,,1
+MMRF_2606,Baseline,-2,0,DISLIPIDEMIA,,Dyslipidemia,1,,,1
+MMRF_2606,Baseline,-2,0,GASTRIC HERNIA CORRECTED BY SURGERY,,Hiatal Hernia,1,,,1
+MMRF_2606,Baseline,-2,0,TACHYCARDIA IN BETA BLOQUERS TREATMENT,,Tachycardia,1,,,1
+MMRF_1923,Baseline,-12,0,Lung bronchiectasies with frequent lung infections,,Pneumonia,1,,,1
+MMRF_1716,Baseline,-368,0,,,Diabetes,1,,,1
+MMRF_1716,Baseline,-368,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_1716,Baseline,-368,0,HYPERTENSION,,Hypertension,1,,,1
+MMRF_1931,Baseline,-5,0,,,Diabetes,1,,,1
+MMRF_1931,Baseline,-5,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2194,Baseline,1,0,SLEEP APNEA SYNDROME (CPAP),,Sleep apnea,1,,,1
+MMRF_2245,Baseline,-1,0,,,Cerebrovascular disease,1,,,1
+MMRF_2245,Baseline,-1,0,,,COPD,1,,,1
+MMRF_2245,Baseline,-1,0,,,Osteoarthritis,1,,,1
+MMRF_2245,Baseline,-1,0,,,Peripheral neuropathy,1,,,1
+MMRF_2526,Baseline,-20,0,,,Osteoarthritis,1,,,1
+MMRF_1913,Baseline,-14,0,Bladder tumor in 2007 (currently no disease),,Bladder Cancer,1,,,1
+MMRF_1913,Baseline,-14,0,Femoral aortic bypass due to aortic aneurysm (June 2003),,Surgery (various),1,,,1
+MMRF_1913,Baseline,-14,0,Surgery: carpal tunnel (January 2014),,Carpal Tunnel Syndrome,1,,,1
+MMRF_1913,Baseline,-14,0,Mild renal insufficiency (more than 1 year history),,Kidney Disease,1,,,1
+MMRF_1978,Baseline,0,0,arterial hypertension,,Hypertension,1,,,1
+MMRF_1978,Baseline,0,0,carpal tunnel syndrome,,Carpal Tunnel Syndrome,1,,,1
+MMRF_1978,Baseline,0,0,Iron deficiency anemia,,Anemia,1,,,1
+MMRF_1978,Baseline,0,0,bilateral knee prosthesis,,Surgery (various),1,,,1
+MMRF_1989,Baseline,1,0,hiatal hernia,,Hiatal Hernia,1,,,1
+MMRF_2049,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2049,Baseline,1,0,Arterial hypertension,,Hypertension,1,,,1
+MMRF_2049,Baseline,1,0,Dyslipemia,,Dyslipidemia,1,,,1
+MMRF_2049,Baseline,1,0,hypertrophic cardiomyopathy,1,Other,1,,,1
+MMRF_2385,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2385,Baseline,1,0,,,Ischemic heart disease,1,,,1
+MMRF_2385,Baseline,1,0,arterial hypertension,,Hypertension,1,,,1
+MMRF_2385,Baseline,1,0,dislypemia,,Dyslipidemia,1,,,1
+MMRF_2385,Baseline,1,0,benign prostate hypertrophy,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2413,Baseline,-9,0,,,COPD,1,,,1
+MMRF_2413,Baseline,-9,0,,,Diabetes,1,,,1
+MMRF_2413,Baseline,-9,0,normocytic anemia,1,Other,1,,,1
+MMRF_2413,Baseline,-9,0,dilated cardiomyopathy,1,Other,1,,,1
+MMRF_2580,Baseline,-23,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2580,Baseline,-23,0,hyperthiroidism,,Hyperthyroidism,1,,,1
+MMRF_2580,Baseline,-23,0,arterial hypertension,,Hypertension,1,,,1
+MMRF_2580,Baseline,-23,0,hypercalcemia,,Hypercalcemia,1,,,1
+MMRF_1861,Baseline,-4,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_1861,Baseline,-4,0,surgical intervention - cystocele,,Surgery (various),1,,,1
+MMRF_1861,Baseline,-4,0,surgical intervention - bilateral cataracts,,Cataracts,1,,,1
+MMRF_1933,Baseline,1,0,,,Cerebrovascular disease,1,,,1
+MMRF_1933,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_1933,Baseline,1,0,epilepsy,,Epilepsy,1,,,1
+MMRF_1933,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_1933,Baseline,1,0,lipoma-dermoid,1,Other,1,,,1
+MMRF_1933,Baseline,1,0,syncope,1,Other,1,,,1
+MMRF_2008,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2008,Baseline,1,0,Intermittent claudication,1,Other,1,,,1
+MMRF_2008,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2008,Baseline,1,0,retinopathy diabetic,1,Other,1,,,1
+MMRF_2008,Baseline,1,0,Diabetic nephropathy (possible),,Kidney Disease,1,,,1
+MMRF_2008,Baseline,1,0,Bilateral faquectomy,1,Other,1,,,1
+MMRF_2011,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2011,Baseline,1,0,monorenal (left nephrectomy for neoplasia in 2007),1,Other,1,,,1
+MMRF_2011,Baseline,1,0,morbid obesity,,Obesity,1,,,1
+MMRF_2011,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2011,Baseline,1,0,hyperuricemia,,Gout,1,,,1
+MMRF_2011,Baseline,1,0,dyslipidemia,,Dyslipidemia,1,,,1
+MMRF_2011,Baseline,1,0,atrial flutter,1,Other,1,,,1
+MMRF_2011,Baseline,1,0,cutaneous neoplasia (basal and squamous cell carcinoma),,Skin Cancer,1,,,1
+MMRF_2085,Baseline,-17,0,,,Diabetes,1,,,1
+MMRF_2085,Baseline,-17,0,Hypertension,,Hypertension,1,,,1
+MMRF_2085,Baseline,-17,0,high cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_2229,Baseline,-61,0,,,Ischemic heart disease,1,,,1
+MMRF_2229,Baseline,-61,0,hypertension,,Hypertension,1,,,1
+MMRF_2229,Baseline,-61,0,hypertriglyceridemia,1,Other,1,,,1
+MMRF_2229,Baseline,-61,0,Myocardial infarction,,Myocardial infarction,1,,,1
+MMRF_2229,Baseline,-61,0,Acute coronary ischemic syndrome,,Myocardial infarction,1,,,1
+MMRF_2229,Baseline,-61,0,Break through an accident of rotator cuff left shoulder,,Fractures,1,,,1
+MMRF_2229,Baseline,-61,0,chronic sinusitis,,Sinusitis,1,,,1
+MMRF_2229,Baseline,-61,0,Iron deficiency anemia,,Anemia,1,,,1
+MMRF_2328,Baseline,0,0,Hypertension,,Hypertension,1,,,1
+MMRF_2328,Baseline,0,0,sebaceous cyst on scalp,1,Other,1,,,1
+MMRF_2401,Baseline,-3,0,,,Diabetes,1,,,1
+MMRF_2427,Baseline,1,0,,,Liver disease,1,,,1
+MMRF_2427,Baseline,1,0,anxious syndrome,,Anxiety,1,,,1
+MMRF_2427,Baseline,1,0,hypertension,,Hypertension,1,,,1
+MMRF_2435,Baseline,-8,0,atrial fibrillation on treatment,,Atrial Fibrillation,1,,,1
+MMRF_2490,Baseline,-1,0,,,Diabetes,1,,,1
+MMRF_2490,Baseline,-1,0,hypertension,,Hypertension,1,,,1
+MMRF_2490,Baseline,-1,0,high cholesterol,,Hypercholesterolemia,1,,,1
+MMRF_2490,Baseline,-1,0,arthrosis,,Arthritis,1,,,1
+MMRF_2490,Baseline,-1,0,epylepsya,,Epilepsy,1,,,1
+MMRF_2490,Baseline,-1,0,breast cancer on 1990 (response complete),,Breast Cancer,1,,,1
+MMRF_2518,Baseline,-41,0,,,Deep vein thrombosis / Thromboembolism,1,,,1
+MMRF_2518,Baseline,-41,0,,,Diabetes,1,,,1
+MMRF_2518,Baseline,-41,0,hypertension,,Hypertension,1,,,1
+MMRF_2518,Baseline,-41,0,hypercholesterol,,Hypercholesterolemia,1,,,1
+MMRF_2293,Baseline,1,0,benign prosthatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2293,Baseline,1,0,ex-smoker,1,Other,1,,,1
+MMRF_2293,Baseline,1,0,cholecystectomy,,Surgery (various),1,,,1
+MMRF_2293,Baseline,1,0,apendicectomy,,Surgery (various),1,,,1
+MMRF_2293,Baseline,1,0,Ocular thrombosis,1,Other,1,,,1
+MMRF_2300,Baseline,-1,0,,,Chronic renal failure,1,,,1
+MMRF_2300,Baseline,-1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2300,Baseline,-1,0,suprarrenal insuficiency,1,Other,1,,,1
+MMRF_2300,Baseline,-1,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2313,Baseline,-12,0,hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2313,Baseline,-12,0,uric acid arthritis,,Arthritis,1,,,1
+MMRF_2313,Baseline,-12,0,smoker,1,Other,1,,,1
+MMRF_2314,Baseline,1,0,,,COPD,1,,,1
+MMRF_2314,Baseline,1,0,,,Liver disease,1,,,1
+MMRF_2314,Baseline,1,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2327,Baseline,1,0,Essential Hypertension,,Hypertension,1,,,1
+MMRF_2327,Baseline,1,0,Atrial fibrilation,,Atrial Fibrillation,1,,,1
+MMRF_2327,Baseline,1,0,Benign Prostatic hyperplasia,,Benign Prostatic Hyperplasia,1,,,1
+MMRF_2364,Baseline,-8,0,Essential Arterial Hypertension,,Hypertension,1,,,1
+MMRF_2364,Baseline,-8,0,Ex- heavy smoker,1,Other,1,,,1
+MMRF_2364,Baseline,-8,0,Psoriasis,,Psoraisis,1,,,1
+MMRF_2364,Baseline,-8,0,Obesity,,Obesity,1,,,1
+MMRF_2364,Baseline,-8,0,Hyperuricemia,,Gout,1,,,1
+MMRF_2452,Baseline,1,0,Hyperurycemia,,Gout,1,,,1
+MMRF_2452,Baseline,1,0,Ex Smoker,1,Other,1,,,1
+MMRF_2452,Baseline,1,0,Dislipemia,,Dyslipidemia,1,,,1
+MMRF_2572,Baseline,-1,0,,,COPD,1,,,1
+MMRF_2572,Baseline,-1,0,,,Diabetes,1,,,1
+MMRF_2572,Baseline,-1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2572,Baseline,-1,0,Hypercholesterolemia,,Hypercholesterolemia,1,,,1
+MMRF_2572,Baseline,-1,0,Prosthate adenocarcinome in complete remission since 2008,,Prostate Cancer,1,,,1
+MMRF_2572,Baseline,-1,0,cardiac arrythmia,1,Other,1,,,1
+MMRF_2601,Baseline,1,0,Hypertension,,Hypertension,1,,,1
+MMRF_2601,Baseline,1,0,asthma,,Asthma,1,,,1
+MMRF_2601,Baseline,1,0,Depressive syndrome,,Depression,1,,,1
+MMRF_2601,Baseline,1,0,arthrosis,,Arthritis,1,,,1
+MMRF_2601,Baseline,1,0,obesity,,Obesity,1,,,1
+MMRF_2016,Baseline,-7,0,,,Acute renal failure,1,,,1
+MMRF_2268,Baseline,-10,0,,,Diabetes,1,,,1
+MMRF_2421,Baseline,-6,0,,,Osteoporosis / Osteopenia,1,,,1
+MMRF_2317,Baseline,1,0,,,Diabetes,1,,,1
+MMRF_2317,Baseline,1,0,ARTHROSIS IN HANDS,,Arthritis,1,,,1
+MMRF_2317,Baseline,1,0,PROSTATE NEOPLASIA,,Benign Prostatic Hyperplasia,1,,,1
